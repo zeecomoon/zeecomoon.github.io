@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/envtubers/static/css/main.0cfb6112.chunk.css",
+    "main.js": "/envtubers/static/js/main.acdec48a.chunk.js",
+    "main.js.map": "/envtubers/static/js/main.acdec48a.chunk.js.map",
+    "runtime-main.js": "/envtubers/static/js/runtime-main.c6f4f696.js",
+    "runtime-main.js.map": "/envtubers/static/js/runtime-main.c6f4f696.js.map",
+    "static/js/2.76cc6634.chunk.js": "/envtubers/static/js/2.76cc6634.chunk.js",
+    "static/js/2.76cc6634.chunk.js.map": "/envtubers/static/js/2.76cc6634.chunk.js.map",
+    "index.html": "/envtubers/index.html",
+    "precache-manifest.ea4e48e78bff0c560bcb973f29048f10.js": "/envtubers/precache-manifest.ea4e48e78bff0c560bcb973f29048f10.js",
+    "service-worker.js": "/envtubers/service-worker.js",
+    "static/css/main.0cfb6112.chunk.css.map": "/envtubers/static/css/main.0cfb6112.chunk.css.map",
+    "static/js/2.76cc6634.chunk.js.LICENSE.txt": "/envtubers/static/js/2.76cc6634.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6f4f696.js",
+    "static/js/2.76cc6634.chunk.js",
+    "static/css/main.0cfb6112.chunk.css",
+    "static/js/main.acdec48a.chunk.js"
+  ]
+}
