@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/envtubers/static/css/main.0cfb6112.chunk.css",
-    "main.js": "/envtubers/static/js/main.acdec48a.chunk.js",
-    "main.js.map": "/envtubers/static/js/main.acdec48a.chunk.js.map",
+    "main.css": "/envtubers/static/css/main.f8cef529.chunk.css",
+    "main.js": "/envtubers/static/js/main.e18b01ac.chunk.js",
+    "main.js.map": "/envtubers/static/js/main.e18b01ac.chunk.js.map",
     "runtime-main.js": "/envtubers/static/js/runtime-main.c6f4f696.js",
     "runtime-main.js.map": "/envtubers/static/js/runtime-main.c6f4f696.js.map",
-    "static/js/2.76cc6634.chunk.js": "/envtubers/static/js/2.76cc6634.chunk.js",
-    "static/js/2.76cc6634.chunk.js.map": "/envtubers/static/js/2.76cc6634.chunk.js.map",
+    "static/js/2.d316a0a6.chunk.js": "/envtubers/static/js/2.d316a0a6.chunk.js",
+    "static/js/2.d316a0a6.chunk.js.map": "/envtubers/static/js/2.d316a0a6.chunk.js.map",
     "index.html": "/envtubers/index.html",
-    "precache-manifest.ea4e48e78bff0c560bcb973f29048f10.js": "/envtubers/precache-manifest.ea4e48e78bff0c560bcb973f29048f10.js",
+    "precache-manifest.14d8795febb111f6a38a6d68035a8727.js": "/envtubers/precache-manifest.14d8795febb111f6a38a6d68035a8727.js",
     "service-worker.js": "/envtubers/service-worker.js",
-    "static/css/main.0cfb6112.chunk.css.map": "/envtubers/static/css/main.0cfb6112.chunk.css.map",
-    "static/js/2.76cc6634.chunk.js.LICENSE.txt": "/envtubers/static/js/2.76cc6634.chunk.js.LICENSE.txt"
+    "static/css/main.f8cef529.chunk.css.map": "/envtubers/static/css/main.f8cef529.chunk.css.map",
+    "static/js/2.d316a0a6.chunk.js.LICENSE.txt": "/envtubers/static/js/2.d316a0a6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6f4f696.js",
-    "static/js/2.76cc6634.chunk.js",
-    "static/css/main.0cfb6112.chunk.css",
-    "static/js/main.acdec48a.chunk.js"
+    "static/js/2.d316a0a6.chunk.js",
+    "static/css/main.f8cef529.chunk.css",
+    "static/js/main.e18b01ac.chunk.js"
   ]
 }
