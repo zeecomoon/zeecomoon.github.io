@@ -61,7 +61,6 @@
     return function (entries, observer) {
       entries.forEach(function (entry) {
         if (entry.intersectionRatio > 0 || entry.isIntersecting) {
-          console.log("Loading", entry.target);
           loadedElems[entry.target] = true;
           observer.unobserve(entry.target);
 
@@ -71,7 +70,6 @@
             loaded(entry.target);
           }
         } else {
-          console.log("unloading", entry.target);
           delete loadedElems[entry.target];
         }
       });
