@@ -1,1181 +1,3901 @@
 [
   {
-    "user_id": "478575546"
-  },
-  {
-    "user_id": "175831187"
-  },
-  {
-    "user_id": "82350088"
-  },
-  {
-    "user_id": "97245742"
-  },
-  {
-    "user_id": "38852102"
-  },
-  {
-    "user_id": "70964046"
-  },
-  {
-    "user_id": "105621562"
-  },
-  {
-    "user_id": "56938961"
-  },
-  {
-    "user_id": "128440061"
-  },
-  {
-    "user_id": "43393510"
-  },
-  {
-    "user_id": "186321663"
-  },
-  {
-    "user_id": "68772426"
-  },
-  {
-    "user_id": "546229903"
-  },
-  {
-    "user_id": "44122645"
-  },
-  {
-    "user_id": "187624169"
-  },
-  {
-    "user_id": "32478459"
-  },
-  {
-    "user_id": "39160849"
-  },
-  {
-    "user_id": "266627736"
-  },
-  {
-    "user_id": "86024567"
-  },
-  {
-    "user_id": "196124087"
-  },
-  {
-    "user_id": "42443327"
-  },
-  {
-    "user_id": "483194031"
-  },
-  {
-    "user_id": "192676441"
-  },
-  {
-    "user_id": "171539943"
-  },
-  {
-    "user_id": "94985347"
-  },
-  {
-    "user_id": "36348250"
-  },
-  {
-    "user_id": "88323704"
-  },
-  {
-    "user_id": "515567425"
-  },
-  {
-    "user_id": "31852423"
-  },
-  {
-    "user_id": "182172032"
-  },
-  {
-    "user_id": "89359583"
-  },
-  {
-    "user_id": "26640321"
-  },
-  {
-    "user_id": "111297034"
-  },
-  {
-    "user_id": "492007192"
-  },
-  {
-    "user_id": "465846646"
-  },
-  {
-    "user_id": "78924550"
-  },
-  {
-    "user_id": "54954322"
-  },
-  {
-    "user_id": "248835257"
-  },
-  {
-    "user_id": "79603112"
-  },
-  {
-    "user_id": "458333549"
-  },
-  {
-    "user_id": "160762855"
-  },
-  {
-    "user_id": "205559199"
-  },
-  {
-    "user_id": "22562338"
-  },
-  {
-    "user_id": "172028045"
-  },
-  {
-    "user_id": "115446869"
-  },
-  {
-    "user_id": "428445815"
-  },
-  {
-    "user_id": "500128827"
-  },
-  {
-    "user_id": "47499542"
-  },
-  {
-    "user_id": "124767028"
-  },
-  {
-    "user_id": "466073963"
-  },
-  {
-    "user_id": "156217888"
-  },
-  {
-    "user_id": "195995650"
-  },
-  {
-    "user_id": "69945276"
-  },
-  {
-    "user_id": "180318635"
-  },
-  {
-    "user_id": "47829116"
-  },
-  {
-    "user_id": "160959402"
-  },
-  {
-    "user_id": "145871415"
-  },
-  {
-    "user_id": "456708376"
-  },
-  {
-    "user_id": "39241785"
-  },
-  {
-    "user_id": "43758119"
-  },
-  {
-    "user_id": "93300843"
-  },
-  {
-    "user_id": "191720697"
-  },
-  {
-    "user_id": "415342630"
-  },
-  {
-    "user_id": "430916993"
-  },
-  {
-    "user_id": "406230340"
-  },
-  {
-    "user_id": "151054406"
-  },
-  {
-    "user_id": "139466055"
-  },
-  {
-    "user_id": "156824312"
-  },
-  {
-    "user_id": "508990092"
-  },
-  {
-    "user_id": "192256962"
-  },
-  {
-    "user_id": "264727777"
-  },
-  {
-    "user_id": "125228649"
-  },
-  {
-    "user_id": "248044612"
-  },
-  {
-    "user_id": "22800396"
-  },
-  {
-    "user_id": "115721882"
-  },
-  {
-    "user_id": "184773685"
-  },
-  {
-    "user_id": "202952207"
-  },
-  {
-    "user_id": "90262302"
-  },
-  {
-    "user_id": "415035197"
-  },
-  {
-    "user_id": "140851952"
-  },
-  {
-    "user_id": "451062186"
-  },
-  {
-    "user_id": "540047056"
-  },
-  {
-    "user_id": "191992757"
-  },
-  {
-    "user_id": "55806756"
-  },
-  {
-    "user_id": "57250486"
-  },
-  {
-    "user_id": "495419210"
-  },
-  {
-    "user_id": "241215640"
-  },
-  {
-    "user_id": "493254349"
-  },
-  {
-    "user_id": "73401972"
-  },
-  {
-    "user_id": "422374646"
-  },
-  {
-    "user_id": "429962658"
-  },
-  {
-    "user_id": "139392830"
-  },
-  {
-    "user_id": "139224877"
-  },
-  {
-    "user_id": "464544368"
-  },
-  {
-    "user_id": "59190478"
-  },
-  {
-    "user_id": "118441029"
-  },
-  {
-    "user_id": "135056709"
-  },
-  {
-    "user_id": "68203823"
-  },
-  {
-    "user_id": "194610925"
-  },
-  {
-    "user_id": "109082711"
-  },
-  {
-    "user_id": "138825777"
-  },
-  {
-    "user_id": "113242581"
-  },
-  {
-    "user_id": "79792848"
-  },
-  {
-    "user_id": "32913605"
-  },
-  {
-    "user_id": "71781384"
-  },
-  {
-    "user_id": "517739813"
-  },
-  {
-    "user_id": "37177653"
-  },
-  {
-    "user_id": "432731218"
-  },
-  {
-    "user_id": "144854931"
-  },
-  {
-    "user_id": "544190871"
-  },
-  {
-    "user_id": "492204658"
-  },
-  {
-    "user_id": "499365441"
-  },
-  {
-    "user_id": "27504783"
-  },
-  {
-    "user_id": "86273663"
-  },
-  {
-    "user_id": "543326987"
-  },
-  {
-    "user_id": "130212704"
-  },
-  {
-    "user_id": "236233156"
-  },
-  {
-    "user_id": "190381811"
-  },
-  {
-    "user_id": "411336612"
-  },
-  {
-    "user_id": "146668870"
-  },
-  {
-    "user_id": "40103145"
-  },
-  {
-    "user_id": "450351985"
-  },
-  {
-    "user_id": "173848172"
-  },
-  {
-    "user_id": "87872648"
-  },
-  {
-    "user_id": "410962384"
-  },
-  {
-    "user_id": "564117020"
-  },
-  {
-    "user_id": "38511848"
-  },
-  {
-    "user_id": "137126512"
-  },
-  {
-    "user_id": "37074941"
-  },
-  {
-    "user_id": "137524728"
-  },
-  {
-    "user_id": "72764031"
-  },
-  {
-    "user_id": "39973566"
-  },
-  {
-    "user_id": "508992778"
-  },
-  {
-    "user_id": "124187887"
-  },
-  {
-    "user_id": "121395755"
-  },
-  {
-    "user_id": "505413205"
-  },
-  {
-    "user_id": "121264422"
-  },
-  {
-    "user_id": "528015332"
-  },
-  {
-    "user_id": "143662519"
-  },
-  {
-    "user_id": "495209645"
-  },
-  {
-    "user_id": "240486973"
-  },
-  {
-    "user_id": "169914506"
-  },
-  {
-    "user_id": "273494387"
-  },
-  {
-    "user_id": "40797938"
-  },
-  {
-    "user_id": "187750863"
-  },
-  {
-    "user_id": "411915726"
-  },
-  {
-    "user_id": "527085253"
-  },
-  {
-    "user_id": "135539209"
-  },
-  {
-    "user_id": "110655027"
-  },
-  {
-    "user_id": "546377646"
-  },
-  {
-    "user_id": "178780982"
-  },
-  {
-    "user_id": "34860030"
-  },
-  {
-    "user_id": "128592744"
-  },
-  {
-    "user_id": "70525798"
-  },
-  {
-    "user_id": "133583018"
-  },
-  {
-    "user_id": "108689438"
-  },
-  {
-    "user_id": "266067737"
-  },
-  {
-    "user_id": "78738902"
-  },
-  {
-    "user_id": "429876163"
-  },
-  {
-    "user_id": "496695793"
-  },
-  {
-    "user_id": "155157719"
-  },
-  {
-    "user_id": "142492366"
-  },
-  {
-    "user_id": "227649327"
-  },
-  {
-    "user_id": "130871188"
-  },
-  {
-    "user_id": "18555122"
-  },
-  {
-    "user_id": "502017321"
-  },
-  {
-    "user_id": "428350415"
-  },
-  {
-    "user_id": "567662218"
-  },
-  {
-    "user_id": "435273812"
-  },
-  {
-    "user_id": "457005026"
-  },
-  {
-    "user_id": "74500914"
-  },
-  {
-    "user_id": "30448063"
-  },
-  {
-    "user_id": "143297914"
-  },
-  {
-    "user_id": "412002952"
-  },
-  {
-    "user_id": "525071617"
-  },
-  {
-    "user_id": "547118470"
-  },
-  {
-    "user_id": "27291789"
-  },
-  {
-    "user_id": "41035537"
-  },
-  {
-    "user_id": "113664636"
-  },
-  {
-    "user_id": "491765198"
-  },
-  {
-    "user_id": "99843598"
-  },
-  {
-    "user_id": "18177592"
-  },
-  {
-    "user_id": "488151793"
-  },
-  {
-    "user_id": "74805557"
-  },
-  {
-    "user_id": "121668762"
-  },
-  {
-    "user_id": "140230333"
-  },
-  {
-    "user_id": "46322826"
-  },
-  {
-    "user_id": "527836163"
-  },
-  {
-    "user_id": "431664418"
-  },
-  {
-    "user_id": "159185266"
-  },
-  {
-    "user_id": "116825838"
-  },
-  {
-    "user_id": "92422282"
-  },
-  {
-    "user_id": "209264134"
-  },
-  {
-    "user_id": "496659703"
-  },
-  {
-    "user_id": "527517944"
-  },
-  {
-    "user_id": "85111467"
-  },
-  {
-    "user_id": "155130994"
-  },
-  {
-    "user_id": "539531915"
-  },
-  {
-    "user_id": "22814550"
-  },
-  {
-    "user_id": "234459721"
-  },
-  {
-    "user_id": "502672564"
-  },
-  {
-    "user_id": "26315917"
-  },
-  {
-    "user_id": "121407967"
-  },
-  {
-    "user_id": "95763256"
-  },
-  {
-    "user_id": "132733689"
-  },
-  {
-    "user_id": "157785589"
-  },
-  {
-    "user_id": "489829367"
-  },
-  {
-    "user_id": "233007494"
-  },
-  {
-    "user_id": "191322329"
-  },
-  {
-    "user_id": "57507314"
-  },
-  {
-    "user_id": "52958857"
-  },
-  {
-    "user_id": "221377000"
-  },
-  {
-    "user_id": "523273333"
-  },
-  {
-    "user_id": "27911816"
-  },
-  {
-    "user_id": "52092103"
-  },
-  {
-    "user_id": "47092858"
-  },
-  {
-    "user_id": "188580933"
-  },
-  {
-    "user_id": "501240987"
-  },
-  {
-    "user_id": "212510571"
-  },
-  {
-    "user_id": "206041937"
-  },
-  {
-    "user_id": "494072929"
-  },
-  {
-    "user_id": "114960432"
-  },
-  {
-    "user_id": "45403579"
-  },
-  {
-    "user_id": "49134881"
-  },
-  {
-    "user_id": "433544500"
-  },
-  {
-    "user_id": "460585622"
-  },
-  {
-    "user_id": "271681189"
-  },
-  {
-    "user_id": "491794401"
-  },
-  {
-    "user_id": "523531891"
-  },
-  {
-    "user_id": "54755785"
-  },
-  {
-    "user_id": "166271771"
-  },
-  {
-    "user_id": "214114140"
-  },
-  {
-    "user_id": "540511630"
-  },
-  {
-    "user_id": "56993394"
-  },
-  {
-    "user_id": "52716087"
-  },
-  {
-    "user_id": "243943033"
-  },
-  {
-    "user_id": "139482554"
-  },
-  {
-    "user_id": "543938111"
-  },
-  {
-    "user_id": "431186105"
-  },
-  {
-    "user_id": "44805258"
-  },
-  {
-    "user_id": "43655421"
-  },
-  {
-    "user_id": "493740569"
-  },
-  {
-    "user_id": "512007589"
-  },
-  {
-    "user_id": "497727912"
-  },
-  {
-    "user_id": "526973218"
-  },
-  {
-    "user_id": "263194971"
-  },
-  {
-    "user_id": "84999685"
-  },
-  {
-    "user_id": "26996667"
-  },
-  {
-    "user_id": "38185861"
-  },
-  {
-    "user_id": "141839964"
-  },
-  {
-    "user_id": "112227157"
-  },
-  {
-    "user_id": "503940450"
-  },
-  {
-    "user_id": "427909755"
-  },
-  {
-    "user_id": "101254496"
-  },
-  {
-    "user_id": "494884629"
-  },
-  {
-    "user_id": "64976426"
-  },
-  {
-    "user_id": "135666016"
-  },
-  {
-    "user_id": "92335891"
-  },
-  {
-    "user_id": "15458952"
-  },
-  {
-    "user_id": "456979696"
-  },
-  {
-    "user_id": "49683033"
-  },
-  {
-    "user_id": "487963827"
-  },
-  {
-    "user_id": "26379133"
-  },
-  {
-    "user_id": "79018641"
-  },
-  {
-    "user_id": "181906156"
-  },
-  {
-    "user_id": "146967302"
-  },
-  {
-    "user_id": "427662947"
-  },
-  {
-    "user_id": "209608266"
-  },
-  {
-    "user_id": "26189911"
-  },
-  {
-    "user_id": "443683310"
-  },
-  {
-    "user_id": "189420618"
-  },
-  {
-    "user_id": "153876545"
-  },
-  {
-    "user_id": "47877639"
-  },
-  {
-    "user_id": "45590895"
-  },
-  {
-    "user_id": "189357608"
-  },
-  {
-    "user_id": "224744574"
-  },
-  {
-    "user_id": "7618703"
-  },
-  {
-    "user_id": "122835266"
-  },
-  {
-    "user_id": "101477880"
-  },
-  {
-    "user_id": "119295956"
-  },
-  {
-    "user_id": "182661341"
-  },
-  {
-    "user_id": "54155443"
-  },
-  {
-    "user_id": "28614117"
-  },
-  {
-    "user_id": "151270035"
-  },
-  {
-    "user_id": "72368259"
-  },
-  {
-    "user_id": "501764546"
-  },
-  {
-    "user_id": "466547549"
-  },
-  {
-    "user_id": "41961517"
-  },
-  {
-    "user_id": "487936385"
-  },
-  {
-    "user_id": "11995177"
-  },
-  {
-    "user_id": "477074026"
-  },
-  {
-    "user_id": "59302476"
-  },
-  {
-    "user_id": "75847493"
-  },
-  {
-    "user_id": "544566170"
-  },
-  {
-    "user_id": "50678649"
-  },
-  {
-    "user_id": "519168257"
-  },
-  {
-    "user_id": "77389747"
-  },
-  {
-    "user_id": "32817516"
-  },
-  {
-    "user_id": "190276688"
-  },
-  {
-    "user_id": "54037580"
-  },
-  {
-    "user_id": "116015054"
-  },
-  {
-    "user_id": "517360108"
-  },
-  {
-    "user_id": "433861785"
-  },
-  {
-    "user_id": "492562765"
-  },
-  {
-    "user_id": "434019230"
-  },
-  {
-    "user_id": "168534633"
-  },
-  {
-    "user_id": "27712579"
-  },
-  {
-    "user_id": "177885113"
-  },
-  {
-    "user_id": "95030609"
-  },
-  {
-    "user_id": "232181425"
-  },
-  {
-    "user_id": "203380663"
-  },
-  {
-    "user_id": "535690780"
-  },
-  {
-    "user_id": "54991000"
-  },
-  {
-    "user_id": "213445756"
-  },
-  {
-    "user_id": "102039928"
-  },
-  {
-    "user_id": "102055221"
-  },
-  {
-    "user_id": "145374134"
-  },
-  {
-    "user_id": "537663036"
-  },
-  {
-    "user_id": "434048756"
-  },
-  {
-    "user_id": "89435200"
-  },
-  {
-    "user_id": "90990495"
-  },
-  {
-    "user_id": "40326696"
-  },
-  {
-    "user_id": "44038173"
-  },
-  {
-    "user_id": "429675379"
-  },
-  {
-    "user_id": "107787393"
-  },
-  {
-    "user_id": "89600533"
-  },
-  {
-    "user_id": "43627795"
-  },
-  {
-    "user_id": "49973941"
-  },
-  {
-    "user_id": "150389764"
-  },
-  {
-    "user_id": "523109202"
-  },
-  {
-    "user_id": "545285290"
-  },
-  {
-    "user_id": "80219157"
-  },
-  {
-    "user_id": "246765892"
-  },
-  {
-    "user_id": "558816941"
-  },
-  {
-    "user_id": "75071946"
-  },
-  {
-    "user_id": "549093557"
-  },
-  {
-    "user_id": "35892478"
-  },
-  {
-    "user_id": "50694160"
-  },
-  {
-    "user_id": "544403749"
-  },
-  {
-    "user_id": "517813234"
-  },
-  {
-    "user_id": "548268043"
-  },
-  {
-    "user_id": "27707813"
-  },
-  {
-    "user_id": "527953582"
-  },
-  {
-    "user_id": "161479398"
-  },
-  {
-    "user_id": "559696908"
-  },
-  {
-    "user_id": "220510366"
-  },
-  {
-    "user_id": "31020703"
-  },
-  {
-    "user_id": "429379250"
-  },
-  {
-    "user_id": "238674030"
-  },
-  {
-    "user_id": "463855862"
-  },
-  {
-    "user_id": "8162123"
-  },
-  {
-    "user_id": "169653987"
-  },
-  {
-    "user_id": "487750387"
-  },
-  {
-    "user_id": "40187704"
-  },
-  {
-    "user_id": "145846616"
-  },
-  {
-    "user_id": "42415439"
-  },
-  {
-    "user_id": "153032068"
-  },
-  {
-    "user_id": "485495462"
-  },
-  {
-    "user_id": "28877511"
-  },
-  {
-    "user_id": "100906397"
-  },
-  {
-    "user_id": "65216532"
-  },
-  {
-    "user_id": "400564623"
-  },
-  {
-    "user_id": "88078063"
-  },
-  {
-    "user_id": "522997322"
-  },
-  {
-    "user_id": "498199196"
-  },
-  {
-    "user_id": "536948524"
-  },
-  {
-    "user_id": "546447110"
-  },
-  {
-    "user_id": "548149756"
-  },
-  {
-    "user_id": "98632848"
-  },
-  {
-    "user_id": "271935472"
-  },
-  {
-    "user_id": "128452625"
-  },
-  {
-    "user_id": "161552355"
-  },
-  {
-    "user_id": "476498593"
-  },
-  {
-    "user_id": "527429472"
-  },
-  {
-    "user_id": "534136189"
-  },
-  {
-    "user_id": "468612239"
-  },
-  {
-    "user_id": "118287973"
-  },
-  {
-    "user_id": "67387534"
-  },
-  {
-    "user_id": "478330210"
-  },
-  {
-    "user_id": "479557793"
-  },
-  {
-    "user_id": "475467289"
-  },
-  {
-    "user_id": "484764338"
-  },
-  {
-    "user_id": "453637592"
-  },
-  {
-    "user_id": "118368502"
-  },
-  {
-    "user_id": "556423170"
-  },
-  {
-    "user_id": "35547439"
-  },
-  {
-    "user_id": "228253314"
-  },
-  {
-    "user_id": "548198967"
-  },
-  {
-    "user_id": "552243825"
-  },
-  {
-    "user_id": "513240191"
-  },
-  {
-    "user_id": "62072622"
-  },
-  {
-    "user_id": "65278277"
-  },
-  {
-    "user_id": "557032637"
+    "user_id": "478575546",
+    "channel": "projektmelody",
+    "twitter": "projektmelody",
+    "socials": {
+      "twitter": "https://twitter.com/ProjektMelody",
+      "youtube": "https://www.youtube.com/channel/UC1yoRdFoFJaCY-AGfD9W0wQ"
+    }
+  },
+  {
+    "user_id": "175831187",
+    "channel": "ironmouse",
+    "twitter": "iron_mouse",
+    "socials": {
+      "twitter": "http://www.twitter.com/Iron_Mouse",
+      "youtube": "http://www.youtube.com/ironmouseparty",
+      "instagram": "http://www.instagram.com/ironmouseparty",
+      "discord": "http://www.discord.gg/preciousfamily"
+    }
+  },
+  {
+    "user_id": "82350088",
+    "channel": "nyanners",
+    "twitter": "nyannyanners",
+    "socials": {
+      "twitter": "https://twitter.com/NyanNyanners",
+      "youtube": "https://www.youtube.com/channel/UCUdQg_xwlt8DcDqU6ID3GsA"
+    }
+  },
+  {
+    "user_id": "97245742",
+    "channel": "veibae",
+    "twitter": "veibae",
+    "socials": {
+      "twitter": "https://twitter.com/Veibae",
+      "youtube": "https://www.youtube.com/channel/UCsBFeCb82qOXyUP19nmD9xw",
+      "discord": "https://discord.gg/vei"
+    }
+  },
+  {
+    "user_id": "38852102",
+    "channel": "momo",
+    "twitter": "MomoMischief",
+    "socials": {
+      "youtube": "http://youtube.com/themastermo"
+    }
+  },
+  {
+    "user_id": "70964046",
+    "channel": "bunny_gif",
+    "twitter": "bunny_gif",
+    "socials": {
+      "twitter": "https://twitter.com/Bunnyayu",
+      "youtube": "https://www.youtube.com/channel/UC5PThiO0PQzXM3LgASEcoTA?disable_polymer=true",
+      "instagram": "https://www.instagram.com/bunny_gif/",
+      "discord": "https://discord.gg/8Z2jYjc"
+    }
+  },
+  {
+    "user_id": "105621562",
+    "channel": "rosedoodle",
+    "twitter": "rosedoodles",
+    "socials": {
+      "twitter": "http://twitter.com/rosedoodles",
+      "youtube": "https://www.youtube.com/channel/UCihXhXRz8tj91hBptuSsQ0g",
+      "instagram": "https://www.instagram.com/rosedoodling/",
+      "discord": "https://discord.gg/euaxyVp"
+    }
+  },
+  {
+    "user_id": "56938961",
+    "channel": "silvervale",
+    "twitter": "_silvervale_",
+    "socials": {
+      "twitter": "https://twitter.com/_Silvervale_",
+      "youtube": "https://www.youtube.com/silvervale",
+      "instagram": "https://www.instagram.com/_silvervale_/",
+      "discord": "https://discord.gg/silvervale"
+    }
+  },
+  {
+    "user_id": "128440061",
+    "channel": "zentreya",
+    "twitter": "zentreya",
+    "socials": {
+      "twitter": "https://twitter.com/zentreya",
+      "youtube": "http://youtube.com/c/Zentreya",
+      "instagram": "http://instagram.com/zentreya",
+      "discord": "https://discord.com/invite/lairofzen"
+    }
+  },
+  {
+    "user_id": "492851707",
+    "channel": "artia_hololive",
+    "twitter": "artia_ow",
+    "socials": {
+      "twitter": "https://twitter.com/Artia_OW"
+    }
+  },
+  {
+    "user_id": "43393510",
+    "channel": "snowsos",
+    "twitter": "SNOWSOS1",
+    "socials": {
+      "twitter": "https://twitter.com/SNOWSOS1",
+      "youtube": "https://www.youtube.com/snowsos",
+      "instagram": "https://www.instagram.com/snowsos1/"
+    }
+  },
+  {
+    "user_id": "186321663",
+    "channel": "oathmeal",
+    "twitter": "KawaiiOathmeal",
+    "socials": {
+      "twitter": "https://twitter.com/kawaiioathmeal",
+      "youtube": "https://www.youtube.com/c/oathmeal",
+      "discord": "https://discord.com/invite/oathmeal"
+    }
+  },
+  {
+    "user_id": "546229903",
+    "channel": "wolfychulive",
+    "twitter": "wolfychuuu",
+    "socials": {
+      "twitter": "https://twitter.com/wolfychuuu",
+      "youtube": "https://www.youtube.com/channel/UC_nEHeUEVNY5ZYLRWg8KoZQ?",
+      "instagram": "https://www.instagram.com/wolfychuyt/"
+    }
+  },
+  {
+    "user_id": "68772426",
+    "channel": "nanoade",
+    "twitter": "nanoade_",
+    "socials": {
+      "twitter": "http://www.twitter.com/nanoade_"
+    }
+  },
+  {
+    "user_id": "44122645",
+    "channel": "chaikitsu",
+    "twitter": "yueko_",
+    "socials": {
+      "twitter": "https://twitter.com/yueko__",
+      "youtube": "https://www.youtube.com/c/yueko/",
+      "instagram": "https://www.instagram.com/meltedbuns/"
+    }
+  },
+  {
+    "user_id": "187624169",
+    "channel": "ashunera",
+    "twitter": "ashuneragames",
+    "socials": {
+      "twitter": "https://twitter.com/AshuneraGames",
+      "youtube": "https://www.youtube.com/c/ashuneragames"
+    }
+  },
+  {
+    "user_id": "32478459",
+    "channel": "kimpleclone",
+    "twitter": "kimpleclone",
+    "socials": {
+      "twitter": "https://twitter.com/KimplEClonE",
+      "discord": "http://discord.gg/Kimpleskittens"
+    }
+  },
+  {
+    "user_id": "39160849",
+    "channel": "kairuichan",
+    "twitter": "kairuichan",
+    "socials": {
+      "twitter": "https://twitter.com/kairuichan",
+      "youtube": "https://www.youtube.com/channel/UC4kcIVzdWaPrmenCTuCrj4Q",
+      "instagram": "http://instagram.com/Kairuichan"
+    }
+  },
+  {
+    "user_id": "266627736",
+    "channel": "natsumi_moe",
+    "twitter": "vtuber_moe",
+    "socials": {
+      "twitter": "https://twitter.com/Vtuber_Moe",
+      "youtube": "https://www.youtube.com/user/TheOtakuMoe/featured"
+    }
+  },
+  {
+    "user_id": "31086485",
+    "channel": "yeiiowen",
+    "twitter": "yellowvtuber",
+    "socials": {
+      "twitter": "https://twitter.com/YellowVTuber",
+      "youtube": "https://www.youtube.com/YellowVtuber"
+    }
+  },
+  {
+    "user_id": "42443327",
+    "channel": "yamachiika",
+    "twitter": "chiikadayo",
+    "socials": {
+      "twitter": "https://twitter.com/chiikadayo",
+      "youtube": "https://www.youtube.com/c/chiikadayo",
+      "instagram": "https://www.instagram.com/yamachiika/"
+    }
+  },
+  {
+    "user_id": "86024567",
+    "channel": "thamriyellvr",
+    "twitter": "thamriyell",
+    "socials": {
+      "twitter": "https://twitter.com/thamriyell",
+      "youtube": "https://www.youtube.com/user/ThamriyellLP",
+      "discord": "http://discord.gg/tham"
+    }
+  },
+  {
+    "user_id": "483194031",
+    "channel": "harukakaribu",
+    "twitter": "haruka_karibu",
+    "socials": {
+      "twitter": "https://twitter.com/haruka_karibu",
+      "youtube": "https://www.youtube.com/c/HarukaKaribu",
+      "discord": "https://discord.com/invite/4AgsbHw"
+    }
+  },
+  {
+    "user_id": "196124087",
+    "channel": "cece",
+    "twitter": "cece_vr",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "192676441",
+    "channel": "aylaahmao",
+    "twitter": "aylaahmao",
+    "socials": {
+      "twitter": "https://twitter.com/aylaahmao",
+      "discord": "https://discord.gg/5UH3X3r"
+    }
+  },
+  {
+    "user_id": "94985347",
+    "channel": "autumn_vr",
+    "twitter": "autumnvrc",
+    "socials": {
+      "twitter": "https://twitter.com/AutumnVRC",
+      "discord": "https://discord.gg/4Ux9epQ"
+    }
+  },
+  {
+    "user_id": "171539943",
+    "channel": "beeewitch",
+    "twitter": "beeewitching",
+    "socials": {
+      "twitter": "https://www.twitter.com/beeewitching",
+      "youtube": "https://www.youtube.com/beeewitch"
+    }
+  },
+  {
+    "user_id": "36348250",
+    "channel": "thatonerebel",
+    "twitter": "rebel_vr",
+    "socials": {
+      "twitter": "https://twitter.com/Rebel_VR",
+      "youtube": "https://www.youtube.com/channel/UCGileXl_aZWlsi57tcblLAA",
+      "instagram": "https://www.instagram.com/thatonerebel55/",
+      "discord": "https://discord.gg/6BgJbHt"
+    }
+  },
+  {
+    "user_id": "515567425",
+    "channel": "snuffyowo",
+    "twitter": "snuffyowo",
+    "socials": {
+      "twitter": "https://twitter.com/snuffyowo",
+      "youtube": "https://www.youtube.com/channel/UCvRihiQZiIO9RH2HOylfQ0Q",
+      "discord": "https://discord.gg/snuffyowo"
+    }
+  },
+  {
+    "user_id": "88323704",
+    "channel": "sunachu_",
+    "twitter": "Sunachu_",
+    "socials": {
+      "twitter": "https://twitter.com/Sunachu_",
+      "instagram": "https://www.instagram.com/sunachu_/"
+    }
+  },
+  {
+    "user_id": "31852423",
+    "channel": "shizzuie",
+    "twitter": "shizzuie",
+    "socials": {
+      "twitter": "https://twitter.com/Shizzuie",
+      "youtube": "https://www.youtube.com/shizzuie",
+      "discord": "https://discord.gg/dv3RzQm"
+    }
+  },
+  {
+    "user_id": "26640321",
+    "channel": "leaflit",
+    "twitter": "leaflitvt",
+    "socials": {
+      "twitter": "https://twitter.com/LeaflitVT",
+      "youtube": "https://www.youtube.com/Leaflit",
+      "instagram": "https://www.instagram.com/leaflitvt/",
+      "discord": "https://discord.gg/Y3hqkcA"
+    }
+  },
+  {
+    "user_id": "182172032",
+    "channel": "munibug",
+    "twitter": "munibug",
+    "socials": {
+      "twitter": "https://twitter.com/munibug",
+      "youtube": "https://youtube.com/munibug",
+      "discord": "https://discord.gg/munibug"
+    }
+  },
+  {
+    "user_id": "89359583",
+    "channel": "yagurlshelly",
+    "twitter": "yagurlyshelly",
+    "socials": {
+      "twitter": "https://twitter.com/yagurlyshelly",
+      "youtube": "https://www.youtube.com/channel/UCQ2NjbmLLx78w0TELJ6oYLQ?view_as=subscriber",
+      "instagram": "https://www.instagram.com/yagurlshelly_/",
+      "discord": "https://discord.gg/CTH7tTT"
+    }
+  },
+  {
+    "user_id": "465846646",
+    "channel": "yuniiho",
+    "twitter": "yuniiho",
+    "socials": {
+      "twitter": "https://twitter.com/yuniiho",
+      "instagram": "https://www.instagram.com/yuniiho/"
+    }
+  },
+  {
+    "user_id": "111297034",
+    "channel": "foxyjoel",
+    "twitter": "joelkaradsheh",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "492007192",
+    "channel": "animetv_vr",
+    "twitter": "AnimeTv_VR",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "458333549",
+    "channel": "ayumioneesan",
+    "twitter": "ayumioneesan",
+    "socials": {
+      "twitter": "https://twitter.com/AyumiOneesan",
+      "instagram": "https://www.instagram.com/ayumi_oneesan/",
+      "discord": "https://discord.gg/araara"
+    }
+  },
+  {
+    "user_id": "160762855",
+    "channel": "comfyrana",
+    "twitter": "comfyrana",
+    "socials": {
+      "twitter": "https://www.twitter.com/comfyRana",
+      "youtube": "https://www.youtube.com/channel/UC0xglI7-kRkQ9FjZR6yZjCQ?",
+      "instagram": "https://www.instagram.com/comfyrana/",
+      "discord": "https://discord.gg/comfyRana"
+    }
+  },
+  {
+    "user_id": "248835257",
+    "channel": "yuikaichan",
+    "twitter": "yuikaichan",
+    "socials": {
+      "twitter": "https://twitter.com/YuikaiChan",
+      "discord": "https://discord.com/invite/poipoipatrol"
+    }
+  },
+  {
+    "user_id": "78924550",
+    "channel": "miaayana",
+    "twitter": "DarlingMiaAyana",
+    "socials": {
+      "twitter": "https://twitter.com/DarlingMiaAyana",
+      "instagram": "https://www.instagram.com/darlingmiaayana/",
+      "discord": "https://discord.gg/UFkY6Rr"
+    }
+  },
+  {
+    "user_id": "54954322",
+    "channel": "ryan1993uk",
+    "twitter": "ryan1993uk",
+    "socials": {
+      "youtube": "http://youtube.com/Ryan1993uk",
+      "discord": "https://discord.gg/PAW52fW"
+    }
+  },
+  {
+    "user_id": "22562338",
+    "channel": "buffpup",
+    "twitter": "Buffpup_",
+    "socials": {
+      "twitter": "https://twitter.com/Buffpup_",
+      "youtube": "https://www.youtube.com/user/Huskybutt69",
+      "discord": "https://discord.gg/buffpupgym"
+    }
+  },
+  {
+    "user_id": "79603112",
+    "channel": "creambrabbit",
+    "twitter": "CreamBRabbit",
+    "socials": {
+      "twitter": "https://twitter.com/CreamBRabbit",
+      "youtube": "https://youtube.com/CreamBRabbit"
+    }
+  },
+  {
+    "user_id": "428445815",
+    "channel": "littleniiuwu",
+    "twitter": "littlenii_",
+    "socials": {
+      "twitter": "https://twitter.com/LittleNii_",
+      "youtube": "https://www.youtube.com/c/LittleNii",
+      "discord": "https://discord.gg/hN9M2G4"
+    }
+  },
+  {
+    "user_id": "205559199",
+    "channel": "yooniebunnie",
+    "twitter": "yoonie_bunnie",
+    "socials": {
+      "twitter": "https://twitter.com/Yoonie_Bunnie",
+      "youtube": "https://www.youtube.com/c/YoonieBunnie",
+      "instagram": "https://www.instagram.com/yoonie_bunnie.x/?hl=en",
+      "discord": "https://discord.com/invite/KNXNa7f"
+    }
+  },
+  {
+    "user_id": "47499542",
+    "channel": "miss_universe",
+    "twitter": "InvaderCristi",
+    "socials": {
+      "discord": "https://discord.gg/AQuTtEv"
+    }
+  },
+  {
+    "user_id": "466073963",
+    "channel": "girl_dm_",
+    "twitter": "girl_dm_",
+    "socials": {
+      "twitter": "https://twitter.com/girl_dm_"
+    }
+  },
+  {
+    "user_id": "172028045",
+    "channel": "kel_vara",
+    "twitter": "Kel_Vara",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "115446869",
+    "channel": "moeshop",
+    "twitter": "korewamoe",
+    "socials": {
+      "twitter": "https://twitter.com/korewamoe",
+      "youtube": "https://www.youtube.com/c/MoeShopMusic",
+      "instagram": "https://www.instagram.com/korewamoe/"
+    }
+  },
+  {
+    "user_id": "160959402",
+    "channel": "ewica",
+    "twitter": "ewicaontwitch",
+    "socials": {
+      "twitter": "https://twitter.com/ewicaontwitch",
+      "youtube": "https://www.youtube.com/channel/UCeafK67cAWOzZ1QF5EtTmoA/featured?view_as=subscriber",
+      "discord": "https://discord.gg/ewica"
+    }
+  },
+  {
+    "user_id": "500128827",
+    "channel": "codemiko",
+    "twitter": "thecodemiko",
+    "socials": {
+      "twitter": "https://twitter.com/thecodemiko",
+      "instagram": "https://www.instagram.com/thecodemiko",
+      "discord": "https://discord.gg/Q7u5A24"
+    }
+  },
+  {
+    "user_id": "456708376",
+    "channel": "minyaseptember",
+    "twitter": "Minya_923",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "517739813",
+    "channel": "yfubaby",
+    "twitter": "yfubaby",
+    "socials": {
+      "twitter": "https://twitter.com/YFUBABY",
+      "youtube": "https://www.youtube.com/channel/UC7b_u7N3feDd9XWogVyoPCg",
+      "instagram": "https://www.instagram.com/yfubaby/",
+      "discord": "https://discord.com/invite/gigagang"
+    }
+  },
+  {
+    "user_id": "47829116",
+    "channel": "klaeia",
+    "twitter": "_klaeia",
+    "socials": {
+      "twitter": "https://twitter.com/_klaeia",
+      "instagram": "https://instagram.com/klaeia"
+    }
+  },
+  {
+    "user_id": "43758119",
+    "channel": "jordansweetolive",
+    "twitter": "JordanSweeto",
+    "socials": {
+      "twitter": "https://twitter.com/JordanSweeto",
+      "youtube": "https://www.youtube.com/user/jordansweeto2",
+      "instagram": "https://www.instagram.com/jordansweeto/"
+    }
+  },
+  {
+    "user_id": "124767028",
+    "channel": "flashyklau",
+    "twitter": "flashyklau",
+    "socials": {
+      "twitter": "https://twitter.com/flashyklau",
+      "youtube": "https://www.youtube.com/c/FlashyKlauVTuber",
+      "instagram": "https://www.instagram.com/flashyklauart",
+      "discord": "https://discord.gg/flashyklau"
+    }
+  },
+  {
+    "user_id": "39241785",
+    "channel": "kelli_siren",
+    "twitter": "kelli_siren",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "69945276",
+    "channel": "fijivr",
+    "twitter": "FijiVR",
+    "socials": {
+      "twitter": "https://twitter.com/FijiVR",
+      "instagram": "https://www.instagram.com/fijivr/",
+      "discord": "https://discord.gg/fiji"
+    }
+  },
+  {
+    "user_id": "139466055",
+    "channel": "lunathemagikarp",
+    "twitter": "lunamagikarp",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "156217888",
+    "channel": "lunpeko",
+    "twitter": "lunpeko",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "93300843",
+    "channel": "momoewth",
+    "twitter": "momoewth",
+    "socials": {
+      "twitter": "https://twitter.com/momoewth",
+      "youtube": "https://www.youtube.com/c/Momoewth",
+      "instagram": "https://www.instagram.com/momoewth",
+      "discord": "https://discord.gg/momoewth"
+    }
+  },
+  {
+    "user_id": "195995650",
+    "channel": "grimsyvr",
+    "twitter": "grimsyvr",
+    "socials": {
+      "twitter": "https://twitter.com/GrimsyVR",
+      "youtube": "https://www.youtube.com/c/Grimsyvr",
+      "instagram": "https://www.instagram.com/grimsyvr/"
+    }
+  },
+  {
+    "user_id": "180318635",
+    "channel": "kohrean",
+    "twitter": "Kohrean_VR",
+    "socials": {
+      "youtube": "http://youtube.com/c/Kohrean",
+      "discord": "http://discord.gg/cjGPhfb"
+    }
+  },
+  {
+    "user_id": "264727777",
+    "channel": "bungotaiga",
+    "twitter": "bungotaiga",
+    "socials": {
+      "twitter": "https://twitter.com/bungotaiga",
+      "youtube": "https://www.youtube.com/channel/UCb9kZqSq-GSEm2LhdMZhqwg?view_as=subscriber",
+      "discord": "https://discord.gg/RFHbKKa"
+    }
+  },
+  {
+    "user_id": "145871415",
+    "channel": "jakkuba_vr",
+    "twitter": "jakkuba_vr",
+    "socials": {
+      "twitter": "https://twitter.com/Jakkuba_VR",
+      "youtube": "https://www.youtube.com/jakkuba",
+      "discord": "https://discord.gg/hs7KP3P"
+    }
+  },
+  {
+    "user_id": "191720697",
+    "channel": "schwiii",
+    "twitter": "ughschwiii",
+    "socials": {
+      "twitter": "https://twitter.com/ughschwiii",
+      "youtube": "https://www.youtube.com/schwiiiuwu"
+    }
+  },
+  {
+    "user_id": "430916993",
+    "channel": "solnako",
+    "twitter": "solnako",
+    "socials": {
+      "twitter": "https://twitter.com/Solnako",
+      "youtube": "https://www.youtube.com/channel/UCdjcagu-xtsjnHciZOjFDEQ",
+      "instagram": "https://www.instagram.com/solnako_/"
+    }
+  },
+  {
+    "user_id": "151054406",
+    "channel": "bsapricot",
+    "twitter": "lichvtuber",
+    "socials": {
+      "twitter": "https://twitter.com/LichVtuber",
+      "youtube": "https://www.youtube.com/apricotthelich"
+    }
+  },
+  {
+    "user_id": "415342630",
+    "channel": "lilythart",
+    "twitter": "LilythArts",
+    "socials": {
+      "twitter": "https://twitter.com/LilythArts"
+    }
+  },
+  {
+    "user_id": "406230340",
+    "channel": "amedoll",
+    "twitter": "amedoll1",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "206881080",
+    "channel": "mirapink",
+    "twitter": "mira_pink",
+    "socials": {
+      "twitter": "https://twitter.com/Mira_Pink",
+      "youtube": "https://youtube.com/c/MiraPink",
+      "instagram": "https://www.instagram.com/mirapink_official/",
+      "discord": "https://discord.gg/nMUrTgJ"
+    }
+  },
+  {
+    "user_id": "192256962",
+    "channel": "uxieu",
+    "twitter": "uxieuuu",
+    "socials": {
+      "twitter": "https://twitter.com/Uxieuuu",
+      "discord": "https://discord.gg/ApbhyNG"
+    }
+  },
+  {
+    "user_id": "156824312",
+    "channel": "kadukununu",
+    "twitter": "kadukununu",
+    "socials": {
+      "twitter": "https://twitter.com/kadukununu",
+      "youtube": "https://www.youtube.com/c/kadukununu",
+      "discord": "https://discord.gg/T2KUcmw"
+    }
+  },
+  {
+    "user_id": "508990092",
+    "channel": "aicandii",
+    "twitter": "aicandii",
+    "socials": {
+      "twitter": "https://twitter.com/aicandii",
+      "instagram": "http://instagram.com/ai_candii"
+    }
+  },
+  {
+    "user_id": "125228649",
+    "channel": "moccachan",
+    "twitter": "moccaliebeskind",
+    "socials": {
+      "twitter": "https://twitter.com/moccaliebeskind",
+      "youtube": "https://www.youtube.com/channel/UCxUedKT3-N99UffOHoQ0o4w",
+      "discord": "https://discord.gg/Vk7Gm2c"
+    }
+  },
+  {
+    "user_id": "202952207",
+    "channel": "phiabunny",
+    "twitter": "phia_bunny",
+    "socials": {
+      "twitter": "https://twitter.com/PHIA_bunny",
+      "youtube": "https://www.youtube.com/channel/UCMMBpWfWUd3xlcOxrot_neA",
+      "instagram": "https://www.instagram.com/phiabunny/?hl=en",
+      "discord": "https://discord.gg/Qkf4qUD"
+    }
+  },
+  {
+    "user_id": "90262302",
+    "channel": "senniursa",
+    "twitter": "senniursa",
+    "socials": {
+      "twitter": "https://twitter.com/Senniursa",
+      "youtube": "https://www.youtube.com/channel/UCiWjxU_0jEE7G__rmWHlGWA",
+      "discord": "https://discord.gg/S6cC9Rk"
+    }
+  },
+  {
+    "user_id": "415035197",
+    "channel": "harunestream",
+    "twitter": "projectharune",
+    "socials": {
+      "youtube": "https://www.youtube.com/channel/UCIU6hi8gSK9mJslSCNV-G5A",
+      "discord": "http://discord.gg/EnYSUcJ"
+    }
+  },
+  {
+    "user_id": "248044612",
+    "channel": "mahoushoujoriri",
+    "twitter": "mahou_riri",
+    "socials": {
+      "twitter": "https://twitter.com/Mahou_Riri",
+      "instagram": "https://www.instagram.com/magicalgirlriri/",
+      "discord": "https://discord.gg/EAa3C52"
+    }
+  },
+  {
+    "user_id": "22800396",
+    "channel": "baguettochan",
+    "twitter": "baguette_chan",
+    "socials": {
+      "twitter": "https://twitter.com/baguette_chan",
+      "youtube": "https://www.youtube.com/channel/UCHsA2nfYVElyClCguZzXVag",
+      "discord": "http://discord.gg/7TVswu5"
+    }
+  },
+  {
+    "user_id": "115721882",
+    "channel": "whispervr",
+    "twitter": "whispermute",
+    "socials": {
+      "twitter": "https://twitter.com/WhisperMute",
+      "youtube": "https://www.youtube.com/channel/UCF-IlA_TEgrcKZAVBpNhiOg?view_as=subscriber",
+      "discord": "https://discord.gg/PAtSubx"
+    }
+  },
+  {
+    "user_id": "451062186",
+    "channel": "yuniluna",
+    "twitter": "yunilunatv",
+    "socials": {
+      "twitter": "https://twitter.com/YuniLunaTV",
+      "youtube": "https://www.youtube.com/channel/UC3J61HoOFR4bUsvBa9EKtbQ",
+      "instagram": "https://www.instagram.com/YuniLunaTV/",
+      "discord": "https://discord.gg/bXbafN2"
+    }
+  },
+  {
+    "user_id": "422374646",
+    "channel": "moshiedraws",
+    "twitter": "MoshieDraws",
+    "socials": {
+      "twitter": "https://twitter.com/MoshieDraws",
+      "discord": "https://discord.com/invite/b4eeDxY"
+    }
+  },
+  {
+    "user_id": "495419210",
+    "channel": "emmymeadows",
+    "twitter": "emmy_meadows",
+    "socials": {
+      "youtube": "https://www.youtube.com/channel/UCvnlOsUwHcG9IjOCHeSMM2w"
+    }
+  },
+  {
+    "user_id": "540047056",
+    "channel": "lyrica_ch",
+    "twitter": "lyrica_ch",
+    "socials": {
+      "twitter": "https://twitter.com/Lyrica_ch",
+      "youtube": "https://www.youtube.com/channel/UCc5H1WmEARIj2R16mvut0ZA"
+    }
+  },
+  {
+    "user_id": "184773685",
+    "channel": "cvnka",
+    "twitter": "cvnka_",
+    "socials": {
+      "twitter": "https://twitter.com/Cvnka_",
+      "youtube": "https://www.youtube.com/cvnka",
+      "instagram": "https://www.instagram.com/_cvnka/",
+      "discord": "https://discord.gg/xcMgMpF"
+    }
+  },
+  {
+    "user_id": "140851952",
+    "channel": "yourfriendmar",
+    "twitter": "yourfriendmar",
+    "socials": {
+      "twitter": "http://twitter.com/yourfriendmar",
+      "youtube": "http://youtube.com/YourFriendMar"
+    }
+  },
+  {
+    "user_id": "57250486",
+    "channel": "uzurimia",
+    "twitter": "uzuvr",
+    "socials": {
+      "twitter": "https://twitter.com/UzuVr",
+      "discord": "https://discord.gg/Qftb6r"
+    }
+  },
+  {
+    "user_id": "191992757",
+    "channel": "lilbagel_",
+    "twitter": "lilbagelvr",
+    "socials": {
+      "twitter": "https://twitter.com/LilBagelVR",
+      "youtube": "https://www.youtube.com/channel/UCyvyVp_Cd-5h3Nbr7fMgy5w?view_as=subscriber?sub_confirmation=1",
+      "discord": "http://www.discord.gg/lilbagel"
+    }
+  },
+  {
+    "user_id": "139392830",
+    "channel": "hailly",
+    "twitter": "huwuily",
+    "socials": {
+      "twitter": "https://twitter.com/huwuily",
+      "youtube": "https://www.youtube.com/channel/UCbqj2TLEZVwurXqyN0wuPHA?view_as=subscriber",
+      "discord": "https://discord.com/invite/haily"
+    }
+  },
+  {
+    "user_id": "493254349",
+    "channel": "mayoi_hitsuji",
+    "twitter": "hitsujin_ch",
+    "socials": {
+      "youtube": "https://www.youtube.com/channel/UCYh3CdGtZ7Gj1DrZGR3GebA"
+    }
+  },
+  {
+    "user_id": "564117020",
+    "channel": "domoarigathanks",
+    "twitter": "domoarigathanks",
+    "socials": {
+      "twitter": "https://twitter.com/domoarigathanks",
+      "youtube": "https://www.youtube.com/channel/UC9D_8ykf02gyMGm0T_pW97g",
+      "discord": "https://discord.gg/DhSShcs"
+    }
+  },
+  {
+    "user_id": "55806756",
+    "channel": "thegreatteacher",
+    "twitter": "TheGreatTeach",
+    "socials": {
+      "twitter": "https://twitter.com/TheGreatTeach",
+      "youtube": "https://www.youtube.com/channel/UCXZW2XWTD8pF2RsvXX-Z36g"
+    }
+  },
+  {
+    "user_id": "241215640",
+    "channel": "himeyyy",
+    "twitter": "_hime0",
+    "socials": {
+      "twitter": "https://twitter.com/_hime0",
+      "instagram": "https://www.instagram.com/himeytan/",
+      "discord": "https://discord.gg/rCWHgAG"
+    }
+  },
+  {
+    "user_id": "73401972",
+    "channel": "noizybunny",
+    "twitter": "thenoizybunny",
+    "socials": {
+      "twitter": "https://twitter.com/thenoizybunny",
+      "youtube": "https://www.youtube.com/channel/UCABdDh6Ksrtuurswy6SzTMw",
+      "discord": "https://discord.gg/bunnyfarm"
+    }
+  },
+  {
+    "user_id": "429962658",
+    "channel": "manamebin",
+    "twitter": "manamebin",
+    "socials": {
+      "twitter": "https://twitter.com/MaNameBin",
+      "youtube": "https://www.youtube.com/channel/UCiaPTh3s_FTC8e-HOAnvMNg",
+      "instagram": "https://www.instagram.com/manamebin/?hl=en",
+      "discord": "https://discord.gg/2rUqm4H"
+    }
+  },
+  {
+    "user_id": "464544368",
+    "channel": "lemonleafasmr",
+    "twitter": "lemonleafasmr",
+    "socials": {
+      "twitter": "https://twitter.com/LemonLeafASMR",
+      "youtube": "https://www.youtube.com/c/lemonleafasmr"
+    }
+  },
+  {
+    "user_id": "79792848",
+    "channel": "squchan",
+    "twitter": "SquChan",
+    "socials": {
+      "twitter": "https://twitter.com/SquChan",
+      "youtube": "https://www.youtube.com/channel/UCO07ueQqqR5QHjsNuTPX0gg?view_as=subscriber",
+      "instagram": "https://www.instagram.com/squchan/"
+    }
+  },
+  {
+    "user_id": "139224877",
+    "channel": "sickly_momo",
+    "twitter": "sickly_momo",
+    "socials": {
+      "twitter": "https://twitter.com/sickly_momo",
+      "discord": "https://discord.gg/TdnsHuG"
+    }
+  },
+  {
+    "user_id": "135056709",
+    "channel": "dokibird",
+    "twitter": "dokibird",
+    "socials": {
+      "twitter": "https://twitter.com/dokibird",
+      "discord": "https://discord.gg/bruY8uA"
+    }
+  },
+  {
+    "user_id": "59190478",
+    "channel": "crankyvt",
+    "twitter": "CrankyVT",
+    "socials": {
+      "twitter": "https://twitter.com/CrankyVT",
+      "discord": "https://discord.gg/hCuZDYt"
+    }
+  },
+  {
+    "user_id": "68203823",
+    "channel": "catfeiine",
+    "twitter": "catfeine_",
+    "socials": {
+      "youtube": "https://www.youtube.com/channel/UCNO5ExmzZmPL5WlTHWA4xIw",
+      "instagram": "https://www.instagram.com/catfeiine/"
+    }
+  },
+  {
+    "user_id": "118441029",
+    "channel": "smolthie",
+    "twitter": "smolt_e",
+    "socials": {
+      "twitter": "https://twitter.com/Smolt_E",
+      "youtube": "https://www.youtube.com/c/Smolthie",
+      "instagram": "https://www.instagram.com/smolthie/",
+      "discord": "https://discord.gg/xGFpqnq"
+    }
+  },
+  {
+    "user_id": "194610925",
+    "channel": "hoshidreams",
+    "twitter": "hoshiyumekawa",
+    "socials": {
+      "twitter": "https://twitter.com/HoshiYumekawa",
+      "instagram": "https://www.instagram.com/hoshicandy/"
+    }
+  },
+  {
+    "user_id": "109082711",
+    "channel": "nekomuchan",
+    "twitter": "nekomu_chan",
+    "socials": {
+      "twitter": "https://twitter.com/Nekomu_chan",
+      "youtube": "https://www.youtube.com/channel/UCWg0CcnAlUH5mGfBMpXE9Ew?view_as=subscriber",
+      "discord": "https://discord.gg/MK52ABZ"
+    }
+  },
+  {
+    "user_id": "71781384",
+    "channel": "siakki",
+    "twitter": "sialiaaa",
+    "socials": {
+      "twitter": "https://twitter.com/siakki_",
+      "instagram": "https://www.instagram.com/siakki_/",
+      "discord": "https://discord.gg/fSMJNCy"
+    }
+  },
+  {
+    "user_id": "138825777",
+    "channel": "cherrily",
+    "twitter": "cherrilyai",
+    "socials": {
+      "twitter": "https://twitter.com/CherrilyAi",
+      "instagram": "https://www.instagram.com/cherrilyai/"
+    }
+  },
+  {
+    "user_id": "544190871",
+    "channel": "asagiriyua",
+    "twitter": "asagiriyua",
+    "socials": {
+      "twitter": "https://twitter.com/asagiriyua",
+      "youtube": "https://www.youtube.com/channel/UC-zutCDDy86XdCx2acA9qeA"
+    }
+  },
+  {
+    "user_id": "492204658",
+    "channel": "pinky_purin",
+    "twitter": "pinky_purin",
+    "socials": {
+      "twitter": "https://twitter.com/Pinky_purin",
+      "discord": "https://discord.gg/FJ8Daek"
+    }
+  },
+  {
+    "user_id": "37177653",
+    "channel": "kyrieai",
+    "twitter": "kyrie_ai",
+    "socials": {
+      "twitter": "https://twitter.com/kyrie_ai"
+    }
+  },
+  {
+    "user_id": "86273663",
+    "channel": "foxette",
+    "twitter": "foxette_au",
+    "socials": {
+      "twitter": "https://twitter.com/Foxette_au",
+      "youtube": "https://youtube.com/c/Foxette",
+      "discord": "https://discord.gg/q2BWkmC"
+    }
+  },
+  {
+    "user_id": "113242581",
+    "channel": "shachimu",
+    "twitter": "shachimu",
+    "socials": {
+      "twitter": "http://twitter.com/shachimu",
+      "youtube": "http://youtube.com/c/shachimu"
+    }
+  },
+  {
+    "user_id": "144854931",
+    "channel": "cafepotion",
+    "twitter": "cafepotion",
+    "socials": {
+      "twitter": "https://twitter.com/CafePotion"
+    }
+  },
+  {
+    "user_id": "190381811",
+    "channel": "gammainkk",
+    "twitter": "gammainkk",
+    "socials": {
+      "youtube": "https://www.youtube.com/channel/UCUPbeR1J-nBb-7PIyqnylSw?view_as=subscriber",
+      "instagram": "http://instagram.com/gammainkk",
+      "discord": "https://discord.gg/ACUfmMd"
+    }
+  },
+  {
+    "user_id": "32913605",
+    "channel": "kululin",
+    "twitter": "kululinvr",
+    "socials": {
+      "twitter": "https://twitter.com/KululinVR",
+      "discord": "http://discord.gg/kulukult"
+    }
+  },
+  {
+    "user_id": "27504783",
+    "channel": "kisakatoriama",
+    "twitter": "KisakaToriama",
+    "socials": {
+      "twitter": "http://www.twitter.com/kisakatoriama",
+      "youtube": "http://www.youtube.com/user/mojocrystaltokyo",
+      "instagram": "http://www.instagram.com/kisakatoriama"
+    }
+  },
+  {
+    "user_id": "432731218",
+    "channel": "vtmilky",
+    "twitter": "mikyuuchuu",
+    "socials": {
+      "twitter": "https://twitter.com/mikyuuchuu",
+      "youtube": "https://youtube.com/c/mikyuu-pro",
+      "discord": "https://discord.gg/7gcPMJK"
+    }
+  },
+  {
+    "user_id": "543326987",
+    "channel": "hanayomekamakiri",
+    "twitter": "hanayomek",
+    "socials": {
+      "twitter": "https://twitter.com/HanayomeK"
+    }
+  },
+  {
+    "user_id": "411336612",
+    "channel": "seikohinami",
+    "twitter": "seikohinami",
+    "socials": {
+      "twitter": "https://twitter.com/SeikoHinami",
+      "youtube": "https://www.youtube.com/channel/UCVrAy_FgUMyZXkzAgT8ahFg?view_as=subscriber",
+      "instagram": "https://www.instagram.com/seikohinami/",
+      "discord": "https://discord.gg/YZ47nbs"
+    }
+  },
+  {
+    "user_id": "146668870",
+    "channel": "lolrimmu",
+    "twitter": "rimmuwu",
+    "socials": {
+      "twitter": "https://twitter.com/Rimmuwu",
+      "youtube": "https://www.youtube.com/rimmu",
+      "discord": "https://discord.gg/pY9tXxJ"
+    }
+  },
+  {
+    "user_id": "91823593",
+    "channel": "glacieslover",
+    "twitter": "glacieslover",
+    "socials": {
+      "twitter": "https://twitter.com/glacieslover",
+      "discord": "https://discord.com/invite/pTUaAuh"
+    }
+  },
+  {
+    "user_id": "499365441",
+    "channel": "mofufu_ch",
+    "twitter": "mofufu_ch",
+    "socials": {
+      "twitter": "https://twitter.com/mofufu_ch",
+      "youtube": "https://www.youtube.com/channel/UCK4jpbAu4BYA6sJi-Xt3lFg?view_as=subscriber"
+    }
+  },
+  {
+    "user_id": "121264422",
+    "channel": "niniyuuna",
+    "twitter": "niniyuuna",
+    "socials": {
+      "twitter": "https://twitter.com/niniyuuna",
+      "youtube": "https://www.youtube.com/channel/UC8CKGSvp9bRfmtWyfV5L9Jw?view_as=subscriber"
+    }
+  },
+  {
+    "user_id": "450351985",
+    "channel": "bellabear__",
+    "twitter": "Bella__Bear",
+    "socials": {
+      "twitter": "https://twitter.com/Bella__Bear",
+      "youtube": "https://www.youtube.com/channel/UC2VtsyUZtkkZGXWKacElowA?"
+    }
+  },
+  {
+    "user_id": "121395755",
+    "channel": "pinkuumyu",
+    "twitter": "pinkuumyu",
+    "socials": {
+      "twitter": "https://twitter.com/pinkuumyu"
+    }
+  },
+  {
+    "user_id": "87872648",
+    "channel": "anntandesu",
+    "twitter": "anntandesu",
+    "socials": {
+      "twitter": "https://twitter.com/AnntanDesu",
+      "instagram": "https://www.instagram.com/annpurin/",
+      "discord": "https://discord.gg/jvmH9V"
+    }
+  },
+  {
+    "user_id": "173848172",
+    "channel": "sumidere",
+    "twitter": "sumidere",
+    "socials": {
+      "twitter": "https://twitter.com/Sumidere",
+      "youtube": "https://www.youtube.com/channel/UC-Q9PsFKjy7Sjc44LIzuDog",
+      "discord": "https://discord.gg/sj6wg2k "
+    }
+  },
+  {
+    "user_id": "236233156",
+    "channel": "argamawitch",
+    "twitter": "argamawitch",
+    "socials": {
+      "twitter": "http://twitter.com/argamawitch",
+      "youtube": "http://youtube.com/argamawitch",
+      "instagram": "http://instagram.com/argamawitch",
+      "discord": "https://discord.gg/6cQWHWu"
+    }
+  },
+  {
+    "user_id": "37074941",
+    "channel": "pokeypokums",
+    "twitter": "pokeypokums",
+    "socials": {
+      "twitter": "https://twitter.com/PokeyPokums",
+      "youtube": "http://youtube.com/PokeyPokums"
+    }
+  },
+  {
+    "user_id": "130212704",
+    "channel": "googie",
+    "twitter": "googiegasmic",
+    "socials": {
+      "twitter": "https://twitter.com/googiegasmic",
+      "youtube": "https://www.youtube.com/c/googietv",
+      "discord": "https://discord.gg/fSbCEWt"
+    }
+  },
+  {
+    "user_id": "40103145",
+    "channel": "drewskievr",
+    "twitter": "DrewskieVR",
+    "socials": {
+      "twitter": "https://twitter.com/DrewskieVR",
+      "youtube": "https://www.youtube.com/user/DrDrewskie0",
+      "discord": "https://discord.gg/EgQd2st"
+    }
+  },
+  {
+    "user_id": "40103145",
+    "channel": "drewskievr",
+    "twitter": "drewskievr",
+    "socials": {
+      "twitter": "https://twitter.com/DrewskieVR",
+      "youtube": "https://www.youtube.com/user/DrDrewskie0",
+      "discord": "https://discord.gg/EgQd2st"
+    }
+  },
+  {
+    "user_id": "39973566",
+    "channel": "cakecatboy",
+    "twitter": "cakecatboy",
+    "socials": {
+      "twitter": "https://twitter.com/cakecatboy",
+      "discord": "http://discord.gg/yQYhAsR"
+    }
+  },
+  {
+    "user_id": "508992778",
+    "channel": "soyapoya",
+    "twitter": "soyapoya",
+    "socials": {
+      "twitter": "https://twitter.com/SoyaPoya",
+      "youtube": "https://www.youtube.com/channel/UCRBUtHIGu_eu6wem5VSun_g?view_as=subscriber"
+    }
+  },
+  {
+    "user_id": "137524728",
+    "channel": "lilyhops",
+    "twitter": "lilyhops",
+    "socials": {
+      "twitter": "https://twitter.com/lilyhops",
+      "youtube": "https://www.youtube.com/channel/UCeofN9seUXFuOunDwTUQBPw?",
+      "discord": "https://discord.gg/nwbVrVe"
+    }
+  },
+  {
+    "user_id": "528015332",
+    "channel": "sleepybunsu",
+    "twitter": "Sleepybunsu",
+    "socials": {
+      "twitter": "https://twitter.com/Sleepybunsu",
+      "youtube": "https://www.youtube.com/c/Senpaibuns",
+      "instagram": "https://www.instagram.com/sleepybunsuart/"
+    }
+  },
+  {
+    "user_id": "410962384",
+    "channel": "hoshiko_ch",
+    "twitter": "hoshiko_ch",
+    "socials": {
+      "twitter": "https://twitter.com/hoshiko_ch",
+      "youtube": "https://www.youtube.com/c/HoshikoChannel",
+      "discord": "https://discord.gg/KSzrpRy"
+    }
+  },
+  {
+    "user_id": "38511848",
+    "channel": "shinect",
+    "twitter": "shiinect",
+    "socials": {
+      "twitter": "https://twitter.com/Shiinect"
+    }
+  },
+  {
+    "user_id": "137126512",
+    "channel": "buunnie",
+    "twitter": "buuunnie",
+    "socials": {
+      "twitter": "https://twitter.com/buuunnie",
+      "instagram": "https://instagram.com/buuunnie",
+      "discord": "https://discord.gg/Q3P6Z25"
+    }
+  },
+  {
+    "user_id": "169507183",
+    "channel": "lunariaayaren",
+    "twitter": "lunariaayaren",
+    "socials": {
+      "twitter": "https://twitter.com/lunariaayaren",
+      "youtube": "https://www.youtube.com/channel/UCeYJM8wsI4oGzc5veQDbVwg/",
+      "instagram": "https://instagram.com/lunariaayaren"
+    }
+  },
+  {
+    "user_id": "143662519",
+    "channel": "comdost",
+    "twitter": "comdost_art",
+    "socials": {
+      "twitter": "https://twitter.com/comdost_art",
+      "youtube": "https://www.youtube.com/channel/UCiNoqhVrRFIxiPRK8Rhk7Ug"
+    }
+  },
+  {
+    "user_id": "501240987",
+    "channel": "nezumi_nemurin",
+    "twitter": "nezuminemurin",
+    "socials": {
+      "youtube": "http://youtube.com/c/NemurinCh",
+      "instagram": "https://www.instagram.com/nezuminemurin"
+    }
+  },
+  {
+    "user_id": "72764031",
+    "channel": "killakuma",
+    "twitter": "_killakuma",
+    "socials": {
+      "twitter": "https://twitter.com/_killakuma",
+      "instagram": "https://instagram.com/killakuma",
+      "discord": "https://discord.gg/MYWjs8X"
+    }
+  },
+  {
+    "user_id": "546377646",
+    "channel": "ryuseinova",
+    "twitter": "ryuuseinova",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "124187887",
+    "channel": "kiky0",
+    "twitter": "kiky0w0",
+    "socials": {
+      "twitter": "https://twitter.com/kiky0w0",
+      "youtube": "https://youtube.com/kikyo",
+      "discord": "https://discord.gg/DgvXEWC"
+    }
+  },
+  {
+    "user_id": "273494387",
+    "channel": "niwatoritv",
+    "twitter": "eminiwatori",
+    "socials": {
+      "twitter": "https://twitter.com/EriNiwatori",
+      "youtube": "https://youtube.com/EmikoNiwatoriChannel"
+    }
+  },
+  {
+    "user_id": "505413205",
+    "channel": "lewnabun",
+    "twitter": "lewnabun",
+    "socials": {
+      "twitter": "https://twitter.com/lewnabun",
+      "youtube": "https://www.youtube.com/channel/UC2wEtdjbf8lNvwvC4OCcT8A?",
+      "instagram": "http://www.instagram.com/lewnabun/",
+      "discord": "https://discord.gg/ffhssEp"
+    }
+  },
+  {
+    "user_id": "240486973",
+    "channel": "yui_mitsue",
+    "twitter": "yuimitsue",
+    "socials": {
+      "twitter": "https://twitter.com/YuiMitsue",
+      "discord": "https://discord.gg/2enwtPs"
+    }
+  },
+  {
+    "user_id": "110655027",
+    "channel": "xkittymcpancakes",
+    "twitter": "KittyMcPancakes",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "495209645",
+    "channel": "savisavichan",
+    "twitter": "savisavichan",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "411915726",
+    "channel": "moonikaya",
+    "twitter": "Moonikaya_",
+    "socials": {
+      "twitter": "https://twitter.com/Moonikaya_",
+      "youtube": "https://www.youtube.com/channel/UCUACeGa51TuKKe2oI8iN9ag?view_as=subscriber",
+      "discord": "https://discord.gg/kZcXWc4"
+    }
+  },
+  {
+    "user_id": "46322826",
+    "channel": "kinnychan",
+    "twitter": "Kinny_Chan",
+    "socials": {
+      "twitter": "https://twitter.com/Kinny_Chan"
+    }
+  },
+  {
+    "user_id": "187750863",
+    "channel": "kiuuyri",
+    "twitter": "kiuuyri",
+    "socials": {
+      "twitter": "https://twitter.com/kiuuyri",
+      "youtube": "https://www.youtube.com/channel/UChaRAIuRaO32LVozsrMpcuQ",
+      "discord": "https://discord.gg/gJHUKFU"
+    }
+  },
+  {
+    "user_id": "169914506",
+    "channel": "ramememe",
+    "twitter": "ramememe_ch",
+    "socials": {
+      "twitter": "https://www.twitter.com/ramememe_ch",
+      "discord": "https://discord.gg/5RVtfnn"
+    }
+  },
+  {
+    "user_id": "178780982",
+    "channel": "asterellastar",
+    "twitter": "asterellas",
+    "socials": {
+      "twitter": "https://twitter.com/AsterellaS",
+      "youtube": "https://www.youtube.com/channel/UCT0qG0jOtruPAEWNvyvT48g?view_as=subscriber",
+      "discord": "https://discord.com/invite/AmmyyNu"
+    }
+  },
+  {
+    "user_id": "116498869",
+    "channel": "shinominya",
+    "twitter": "shinomiya_arts",
+    "socials": {
+      "twitter": "https://twitter.com/shinomiya_arts",
+      "instagram": "https://www.instagram.com/shinomiya_arts/",
+      "discord": "https://discord.gg/PrTQ4sB"
+    }
+  },
+  {
+    "user_id": "40797938",
+    "channel": "kirschey",
+    "twitter": "Kirscheycakes",
+    "socials": {
+      "twitter": "https://twitter.com/Kirscheycakes",
+      "youtube": "https://www.youtube.com/channel/UC3N8ceQAY0F_kJG0aJNttLg",
+      "discord": "https://discord.gg/uXdHJ8z"
+    }
+  },
+  {
+    "user_id": "135539209",
+    "channel": "rinonako",
+    "twitter": "rinonako98",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "143297914",
+    "channel": "2wintails",
+    "twitter": "2wintails",
+    "socials": {
+      "twitter": "https://twitter.com/2wintails",
+      "instagram": "https://instagram.com/2wintails"
+    }
+  },
+  {
+    "user_id": "547118470",
+    "channel": "serotina",
+    "twitter": "serotinavt",
+    "socials": {
+      "twitter": "https://twitter.com/SerotinaVT",
+      "youtube": "https://www.youtube.com/c/Serotina",
+      "discord": "https://discord.com/invite/q5NfYK6"
+    }
+  },
+  {
+    "user_id": "527085253",
+    "channel": "capriccowo",
+    "twitter": "qbbyou",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "496695793",
+    "channel": "celestiya_",
+    "twitter": "celestiya_",
+    "socials": {
+      "twitter": "https://twitter.com/celestiya_",
+      "youtube": "https://www.youtube.com/channel/UCDidoMaTTZ_uaJIiMyKMJJQ?view_as=subscriber",
+      "instagram": "https://www.instagram.com/celestiya_/",
+      "discord": "https://discord.gg/tbjubwj"
+    }
+  },
+  {
+    "user_id": "142492366",
+    "channel": "galactiernova",
+    "twitter": "novagalactier",
+    "socials": {
+      "discord": "http://discord.gg/Guw7CPk"
+    }
+  },
+  {
+    "user_id": "155157719",
+    "channel": "sopralto",
+    "twitter": "the_sopralto",
+    "socials": {
+      "twitter": "https://twitter.com/the_sopralto",
+      "youtube": "http://youtube.com/channel/UC4F3Z",
+      "discord": "https://discord.gg/UFrUJ2D"
+    }
+  },
+  {
+    "user_id": "34860030",
+    "channel": "esdesuuu",
+    "twitter": "EsdesuVR",
+    "socials": {
+      "twitter": "https://twitter.com/EsdesuVR",
+      "discord": "https://discord.gg/daGfsqP"
+    }
+  },
+  {
+    "user_id": "70525798",
+    "channel": "rinmini",
+    "twitter": "RinMinii",
+    "socials": {
+      "twitter": "https://twitter.com/RinMinii",
+      "youtube": "https://www.youtube.com/channel/UC0gr1sRzdeVxIc0mhVIlvFw",
+      "discord": "https://discord.gg/HtPuMvp"
+    }
+  },
+  {
+    "user_id": "108689438",
+    "channel": "fuululuu",
+    "twitter": "fuululuu",
+    "socials": {
+      "twitter": "https://twitter.com/Fuululuu"
+    }
+  },
+  {
+    "user_id": "502017321",
+    "channel": "lovewatch_rinnie",
+    "twitter": "lovewatchr",
+    "socials": {
+      "twitter": "https://twitter.com/LovewatchR",
+      "discord": "https://discord.gg/ZVKv9TK"
+    }
+  },
+  {
+    "user_id": "41035537",
+    "channel": "yokurach",
+    "twitter": "yokudraws",
+    "socials": {
+      "twitter": "https://twitter.com/yokudraws",
+      "instagram": "https://www.instagram.com/yokudraws/",
+      "discord": "http://discord.gg/Z57xfy6"
+    }
+  },
+  {
+    "user_id": "128592744",
+    "channel": "minkyol",
+    "twitter": "minkyol",
+    "socials": {
+      "twitter": "https://twitter.com/minkyol"
+    }
+  },
+  {
+    "user_id": "130871188",
+    "channel": "murmaider_",
+    "twitter": "murmaidere",
+    "socials": {
+      "twitter": "https://twitter.com/Murmaidere",
+      "discord": "https://discord.gg/DdrsbaV"
+    }
+  },
+  {
+    "user_id": "133583018",
+    "channel": "somarigel",
+    "twitter": "somarigel",
+    "socials": {
+      "twitter": "https://twitter.com/SomaRigel",
+      "youtube": "https://www.youtube.com/SomaRigel",
+      "discord": "https://discord.gg/Cxaxn34"
+    }
+  },
+  {
+    "user_id": "266067737",
+    "channel": "onesieyoona",
+    "twitter": "onesieyoona",
+    "socials": {
+      "twitter": "https://twitter.com/OnesieYoona",
+      "youtube": "https://www.youtube.com/onesieyoona",
+      "instagram": "https://www.instagram.com/onesieyoona/",
+      "discord": "https://discord.gg/w9tcANS"
+    }
+  },
+  {
+    "user_id": "227649327",
+    "channel": "v_idol_alice_alucard",
+    "twitter": "alice_alucard",
+    "socials": {
+      "twitter": "https://www.twitter.com/Alice_Alucard",
+      "youtube": "https://www.youtube.com/CasualRabbitGaming",
+      "instagram": "https://www.instagram.com/virtual_idol_alice_alucard/",
+      "discord": "https://discord.gg/SDeHFQp"
+    }
+  },
+  {
+    "user_id": "567662218",
+    "channel": "oppapann",
+    "twitter": "oppaipantsuu",
+    "socials": {
+      "twitter": "https://twitter.com/OppaiPantsuu",
+      "discord": "https://discord.gg/cJV3nft"
+    }
+  },
+  {
+    "user_id": "78738902",
+    "channel": "wanderserenity",
+    "twitter": "wanderserenity",
+    "socials": {
+      "twitter": "https://twitter.com/WanderSerenity",
+      "youtube": "https://www.youtube.com/channel/UC7OVL6N4y8kAh0c1AVkofEw",
+      "discord": "https://discord.gg/hNqBrgK"
+    }
+  },
+  {
+    "user_id": "429876163",
+    "channel": "alilbit_",
+    "twitter": "vtuberlbit",
+    "socials": {
+      "twitter": "https://twitter.com/VTuberLBit",
+      "youtube": "https://www.youtube.com/channel/UCAI1WIwkg6PSuixob6uE1Ag?view_as=subscriber",
+      "discord": "https://discord.gg/uPk462C"
+    }
+  },
+  {
+    "user_id": "209264134",
+    "channel": "raelaveire",
+    "twitter": "raelaveire",
+    "socials": {
+      "twitter": "https://twitter.com/raelaveire",
+      "youtube": "https://youtube.com/c/Raelaveire",
+      "discord": "https://discord.com/invite/mUHzfM3"
+    }
+  },
+  {
+    "user_id": "547253367",
+    "channel": "ichikamaia",
+    "twitter": "ichikamaia",
+    "socials": {
+      "twitter": "https://twitter.com/ichikamaia",
+      "youtube": "https://www.youtube.com/channel/UCuKuBKEK3YIVgWW_2KJ4Htw"
+    }
+  },
+  {
+    "user_id": "525071617",
+    "channel": "yuma_yamano",
+    "twitter": "yumayamano",
+    "socials": {
+      "twitter": "https://twitter.com/yumayamano",
+      "youtube": "https://www.youtube.com/c/yumayamano",
+      "discord": "http://discord.gg/YZMezfN"
+    }
+  },
+  {
+    "user_id": "527517944",
+    "channel": "tiuuie",
+    "twitter": "tiuuie",
+    "socials": {
+      "twitter": "https://twitter.com/tiuuie",
+      "instagram": "https://instagram.com/tiuuie"
+    }
+  },
+  {
+    "user_id": "18555122",
+    "channel": "koakuma_ch",
+    "twitter": "demonstarr13",
+    "socials": {
+      "twitter": "https://twitter.com/hellionkoakuma",
+      "discord": "https://discord.gg/hrzBkjQ"
+    }
+  },
+  {
+    "user_id": "140230333",
+    "channel": "dacee_uwu",
+    "twitter": "dacee_uwu",
+    "socials": {
+      "twitter": "https://twitter.com/dacee_uwu",
+      "instagram": "https://www.instagram.com/dacee.uwu/"
+    }
+  },
+  {
+    "user_id": "491765198",
+    "channel": "kidakupo",
+    "twitter": "kidakupo",
+    "socials": {
+      "twitter": "https://twitter.com/kidakupo",
+      "youtube": "https://www.youtube.com/channel/UC4kfbi1w1SR1x2CgQyIZSaw",
+      "discord": "https://discord.com/invite/Ts2aM4f"
+    }
+  },
+  {
+    "user_id": "457005026",
+    "channel": "shuvichii",
+    "twitter": "ShuviChamillet",
+    "socials": {
+      "twitter": "https://twitter.com/pandemo_shuvi",
+      "youtube": "https://www.youtube.com/channel/UCucitbrHNQOO0ZdqXEyg5yA",
+      "discord": "https://discord.gg/xHFWdR5"
+    }
+  },
+  {
+    "user_id": "18177592",
+    "channel": "shimohisae",
+    "twitter": "shimotsukei",
+    "socials": {
+      "twitter": "https://twitter.com/ShimoHisae"
+    }
+  },
+  {
+    "user_id": "74500914",
+    "channel": "shionaygaming",
+    "twitter": "shionaygaming",
+    "socials": {
+      "twitter": "https://twitter.com/shionaygaming",
+      "youtube": "https://www.youtube.com/c/Shionay",
+      "instagram": "https://www.instagram.com/shionaygaming/",
+      "discord": "https://discord.gg/GaHYqvR"
+    }
+  },
+  {
+    "user_id": "30448063",
+    "channel": "riia",
+    "twitter": "aceo1oo",
+    "socials": {
+      "twitter": "https://twitter.com/AceO1OO",
+      "discord": "https://discord.gg/8xraNPh"
+    }
+  },
+  {
+    "user_id": "121668762",
+    "channel": "ovalee",
+    "twitter": "ovaraisu",
+    "socials": {
+      "twitter": "https://twitter.com/ovaraisu",
+      "youtube": "https://youtube.com/ovalee?sub_confirmation=1",
+      "discord": "https://discord.gg/6eQtVHh"
+    }
+  },
+  {
+    "user_id": "99843598",
+    "channel": "violetdragoness",
+    "twitter": "vidragoness",
+    "socials": {
+      "twitter": "https://twitter.com/ViDragoness",
+      "youtube": "https://www.youtube.com/VioletDragoness",
+      "discord": "https://discord.gg/k9KnXA5"
+    }
+  },
+  {
+    "user_id": "488151793",
+    "channel": "naikazetv",
+    "twitter": "hamakaze_nai",
+    "socials": {
+      "twitter": "https://twitter.com/hamakaze_nai",
+      "youtube": "https://www.youtube.com/channel/UCZXgYr6R4PR2u4cDig7RnZw",
+      "discord": "https://discord.gg/2W27mWY"
+    }
+  },
+  {
+    "user_id": "428350415",
+    "channel": "himekosae",
+    "twitter": "himekosae",
+    "socials": {
+      "twitter": "https://twitter.com/himekosae",
+      "discord": "https://discord.gg/kyspkys"
+    }
+  },
+  {
+    "user_id": "435273812",
+    "channel": "levynwalker",
+    "twitter": "levynwalker",
+    "socials": {
+      "twitter": "https://twitter.com/LevynWalker",
+      "youtube": "https://www.youtube.com/channel/UC7yp6wz-RLut_YlY9gvhBUQ",
+      "instagram": "https://www.instagram.com/levynwalker/",
+      "discord": "https://discord.com/invite/ZydvzyQ"
+    }
+  },
+  {
+    "user_id": "27291789",
+    "channel": "nemurenai_kai",
+    "twitter": "nemurenai_kai",
+    "socials": {
+      "twitter": "https://twitter.com/nemurenai_kai",
+      "youtube": "https://www.youtube.com/channel/UCz68zJ7GWG5sS0RxR1SDJuw"
+    }
+  },
+  {
+    "user_id": "113664636",
+    "channel": "jeffybed",
+    "twitter": "jeffybed",
+    "socials": {
+      "twitter": "https://twitter.com/JeffyBed",
+      "youtube": "https://www.youtube.com/jeffybed",
+      "instagram": "https://instagram.com/jeffybed/",
+      "discord": "https://discord.gg/Dww84yg"
+    }
+  },
+  {
+    "user_id": "74805557",
+    "channel": "seraroseplays",
+    "twitter": "seraroseplays",
+    "socials": {
+      "discord": "http://discord.gg/Uw5qGcU"
+    }
+  },
+  {
+    "user_id": "412002952",
+    "channel": "ayameight",
+    "twitter": "ayameight",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "431664418",
+    "channel": "erinachandesu",
+    "twitter": "erinavtuber",
+    "socials": {
+      "twitter": "https://twitter.com/ErinaVTuber",
+      "youtube": "https://www.youtube.com/channel/UCEcE7nQ5LbSXvaLq4rf2yrw",
+      "instagram": "http://instagram.com/erina.vtuber",
+      "discord": "https://discord.com/invite/xWHMRsH"
+    }
+  },
+  {
+    "user_id": "562468810",
+    "channel": "lazuli_hiko",
+    "twitter": "lazuli_hiko",
+    "socials": {
+      "twitter": "https://twitter.com/Lazuli_Hiko",
+      "instagram": "https://www.instagram.com/lazuli_hiko/"
+    }
+  },
+  {
+    "user_id": "527836163",
+    "channel": "yanchagogo",
+    "twitter": "yanchagogo",
+    "socials": {
+      "twitter": "https://twitter.com/yanchagogo",
+      "youtube": "https://www.youtube.com/channel/UCnvwZQ18buaN834bJ3a03lA",
+      "instagram": "https://instagram.com/YanchaGogo",
+      "discord": "https://discord.gg/ABcQGS4"
+    }
+  },
+  {
+    "user_id": "116825838",
+    "channel": "courierofc69",
+    "twitter": "courierofc69",
+    "socials": {
+      "twitter": "https://twitter.com/CourierOfC69",
+      "discord": "https://discord.gg/zgAepcb"
+    }
+  },
+  {
+    "user_id": "159185266",
+    "channel": "arhdian",
+    "twitter": "ARHDian",
+    "socials": {
+      "twitter": "https://twitter.com/ARHDian",
+      "instagram": "https://www.instagram.com/arhdian_draws/",
+      "discord": "http://discord.gg/PdWGaak"
+    }
+  },
+  {
+    "user_id": "523273333",
+    "channel": "yukari_v",
+    "twitter": "VtuberYukari",
+    "socials": {
+      "twitter": "https://twitter.com/VtuberYukari",
+      "discord": "https://discord.gg/YWYPpAK"
+    }
+  },
+  {
+    "user_id": "92422282",
+    "channel": "maeowi",
+    "twitter": "maeowi",
+    "socials": {
+      "twitter": "https://twitter.com/Maeowi"
+    }
+  },
+  {
+    "user_id": "121407967",
+    "channel": "maroony",
+    "twitter": "maroony__",
+    "socials": {
+      "twitter": "https://twitter.com/maroony__",
+      "discord": "https://discord.gg/JRZAmxY"
+    }
+  },
+  {
+    "user_id": "496659703",
+    "channel": "takayamacrimson",
+    "twitter": "takayawan",
+    "socials": {
+      "twitter": "https://twitter.com/Takayawan",
+      "youtube": "https://www.youtube.com/channel/UCf3qqDx6vwbvqd9Ja3f1j8Q",
+      "discord": "https://discord.gg/NKbeaPU"
+    }
+  },
+  {
+    "user_id": "85111467",
+    "channel": "comrade_del",
+    "twitter": "comrade_del",
+    "socials": {
+      "twitter": "https://twitter.com/Comrade_Del",
+      "discord": "https://discord.gg/3Zw7fU9"
+    }
+  },
+  {
+    "user_id": "539531915",
+    "channel": "ayumirisach",
+    "twitter": "ayumirisach",
+    "socials": {
+      "twitter": "https://twitter.com/AyumiRisaCH",
+      "youtube": "https://www.youtube.com/channel/UCnUzQElsglBRcL4pzYydrSA/featured",
+      "discord": "https://discord.gg/ECANkcH"
+    }
+  },
+  {
+    "user_id": "233007494",
+    "channel": "zeroviewz",
+    "twitter": "zeroviewztv",
+    "socials": {
+      "youtube": "https://www.youtube.com/zeroviewz",
+      "instagram": "https://www.instagram.com/datbakacos"
+    }
+  },
+  {
+    "user_id": "243943033",
+    "channel": "aquafiinaa",
+    "twitter": "aguafiina",
+    "socials": {
+      "twitter": "https://twitter.com/Aguafiina",
+      "youtube": "https://www.youtube.com/channel/UCpEjCHnwFPRoiaW2R_2DALw/"
+    }
+  },
+  {
+    "user_id": "155130994",
+    "channel": "risayoon",
+    "twitter": "risayoonvr",
+    "socials": {
+      "twitter": "https://twitter.com/RisaYoonVr",
+      "youtube": "https://www.youtube.com/channel/UCF_anjs5e51MwQih3TGZkDA",
+      "discord": "http://discord.gg/AXN8TeZ"
+    }
+  },
+  {
+    "user_id": "22814550",
+    "channel": "lamork",
+    "twitter": "nyamork",
+    "socials": {
+      "twitter": "https://twitter.com/nyamork",
+      "discord": "https://discord.gg/eGP55bD"
+    }
+  },
+  {
+    "user_id": "157785589",
+    "channel": "cakexchan",
+    "twitter": "cakexchan",
+    "socials": {
+      "twitter": "https://twitter.com/cakexchan"
+    }
+  },
+  {
+    "user_id": "553517605",
+    "channel": "hodusae",
+    "twitter": "_hodusae",
+    "socials": {
+      "twitter": "http://twitter.com/_hodusae"
+    }
+  },
+  {
+    "user_id": "493740569",
+    "channel": "kiekyoko",
+    "twitter": "kiekyoko",
+    "socials": {
+      "youtube": "https://www.youtube.com/channel/UCLLbOycUktA8tP48BD01X-Q",
+      "discord": "https://discord.gg/2nPKSMN"
+    }
+  },
+  {
+    "user_id": "502672564",
+    "channel": "suiren_vt",
+    "twitter": "suiren_vt",
+    "socials": {
+      "twitter": "https://twitter.com/suiren_vt",
+      "discord": "https://discord.gg/DtXX5X5"
+    }
+  },
+  {
+    "user_id": "26315917",
+    "channel": "cableow",
+    "twitter": "cableow",
+    "socials": {
+      "twitter": "https://twitter.com/CableOW",
+      "discord": "https://discord.gg/B525eEY"
+    }
+  },
+  {
+    "user_id": "489829367",
+    "channel": "kryst_al",
+    "twitter": "mkrystial",
+    "socials": {
+      "twitter": "https://twitter.com/MKrystial",
+      "discord": "https://discord.gg/6KrDS8X"
+    }
+  },
+  {
+    "user_id": "234459721",
+    "channel": "aoivr",
+    "twitter": "aoi_vr",
+    "socials": {
+      "twitter": "https://twitter.com/Aoi_VR",
+      "youtube": "https://www.youtube.com/channel/UCkvlPReibMx3KiyWcTbAt6A?view_as=subscriber",
+      "instagram": "https://www.instagram.com/aoi__vr/?hl=en",
+      "discord": "https://discord.com/invite/GF2PPM5"
+    }
+  },
+  {
+    "user_id": "43655421",
+    "channel": "feebeechanchibi",
+    "twitter": "feebeechanchibi",
+    "socials": {
+      "twitter": "http://twitter.com/feebeechanchibi",
+      "youtube": "https://www.youtube.com/c/feebeechanchibi",
+      "instagram": "https://www.instagram.com/feebeechanchibi/"
+    }
+  },
+  {
+    "user_id": "191322329",
+    "channel": "keywee_",
+    "twitter": "keywee_",
+    "socials": {
+      "twitter": "https://twitter.com/keywee_",
+      "youtube": "https://www.youtube.com/channel/UCMn9fIosAsCjzKECKhIXrMA",
+      "discord": "https://discord.gg/MQ7YFgs"
+    }
+  },
+  {
+    "user_id": "56993394",
+    "channel": "mipmipchan",
+    "twitter": "mipmipchan",
+    "socials": {
+      "twitter": "https://twitter.com/MIPMIPchan",
+      "youtube": "https://www.youtube.com/channel/UCTZFt1bWpkt-i6vMalPO39A",
+      "discord": "https://discord.gg/nRqnThV"
+    }
+  },
+  {
+    "user_id": "95763256",
+    "channel": "kriva",
+    "twitter": "kriva_boiswazhe",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "132733689",
+    "channel": "klouderchan",
+    "twitter": "alphaklouder",
+    "socials": {
+      "twitter": "https://twitter.com/AlphaKlouder",
+      "youtube": "https://www.youtube.com/channel/UCFtAB4W7GjxzN36BP4Bb-ig",
+      "discord": "https://discord.gg/cfYcktv"
+    }
+  },
+  {
+    "user_id": "543938111",
+    "channel": "lilybellestreams",
+    "twitter": "lilybellevtuber",
+    "socials": {
+      "twitter": "https://twitter.com/LilybelleVTuber",
+      "discord": "https://discord.gg/APhHmzg"
+    }
+  },
+  {
+    "user_id": "57507314",
+    "channel": "redrockoverlord",
+    "twitter": "redrockoverlord",
+    "socials": {
+      "twitter": "https://twitter.com/RedRockOverlord",
+      "youtube": "https://www.youtube.com/c/RedRockOverlord/",
+      "discord": "http://discord.gg/D9FvqBW"
+    }
+  },
+  {
+    "user_id": "221377000",
+    "channel": "discordiavr",
+    "twitter": "discordiavr",
+    "socials": {
+      "twitter": "https://twitter.com/DiscordiaVR",
+      "discord": "https://discord.gg/vDBTZuU"
+    }
+  },
+  {
+    "user_id": "540511630",
+    "channel": "harukahoshigawa",
+    "twitter": "hoshigawaharuka",
+    "socials": {
+      "twitter": "https://twitter.com/HoshigawaHaruka",
+      "youtube": "https://www.youtube.com/c/HoshigawaHaruka"
+    }
+  },
+  {
+    "user_id": "27911816",
+    "channel": "melynnrose",
+    "twitter": "melynnrose",
+    "socials": {
+      "twitter": "https://twitter.com/MelynnRose",
+      "discord": "https://discord.com/invite/DUtxwtz"
+    }
+  },
+  {
+    "user_id": "212510571",
+    "channel": "puddlinq",
+    "twitter": "puddlinq",
+    "socials": {
+      "twitter": "https://twitter.com/puddlinq"
+    }
+  },
+  {
+    "user_id": "206041937",
+    "channel": "h_paradice",
+    "twitter": "h_paradice",
+    "socials": {
+      "twitter": "https://twitter.com/h_paradice",
+      "discord": "https://discord.gg/pDk2Q4G"
+    }
+  },
+  {
+    "user_id": "84999685",
+    "channel": "alittlesugoi",
+    "twitter": "alittlesugoi",
+    "socials": {
+      "twitter": "https://twitter.com/alittlesugoi",
+      "youtube": "https://www.youtube.com/channel/UC7E9vLYx36agWQ615fbA-Ig?view_as=subscriber",
+      "instagram": "https://www.instagram.com/alittlesugoi/?hl=en",
+      "discord": "https://discord.gg/tAybSKz"
+    }
+  },
+  {
+    "user_id": "181906156",
+    "channel": "nekomeiko",
+    "twitter": "nekomeiko_",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "494072929",
+    "channel": "fukuroushoujonim",
+    "twitter": "fukuroshoujonim",
+    "socials": {
+      "twitter": "https://twitter.com/FukuroShoujoNim",
+      "youtube": "https://www.youtube.com/channel/UCJuYkdcie4dC_29i44eGGBg/",
+      "discord": "https://discord.gg/aJRJNnm"
+    }
+  },
+  {
+    "user_id": "188580933",
+    "channel": "tripleq_vt",
+    "twitter": "tripleq_vt",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "214114140",
+    "channel": "tsukiluna_",
+    "twitter": "tsukilunayt",
+    "socials": {
+      "twitter": "https://twitter.com/TsukiLunaYT",
+      "youtube": "https://www.youtube.com/channel/UCGPYjHqFgFV5kX_shCJX8-g?view_as=subscriber",
+      "instagram": "https://www.instagram.com/tsukiluna_/",
+      "discord": "https://discord.com/invite/tBHKMQS"
+    }
+  },
+  {
+    "user_id": "47092858",
+    "channel": "gingerkitsu",
+    "twitter": "ginger_kitsu",
+    "socials": {
+      "twitter": "https://twitter.com/Ginger_Kitsu",
+      "discord": "https://discord.com/invite/J2uMEnf"
+    }
+  },
+  {
+    "user_id": "460585622",
+    "channel": "mons_day",
+    "twitter": "mons_day",
+    "socials": {
+      "twitter": "https://twitter.com/mons_day",
+      "instagram": "https://www.instagram.com/_monsday/",
+      "discord": "https://discord.gg/YPDuMUM"
+    }
+  },
+  {
+    "user_id": "52958857",
+    "channel": "tamaslastlife",
+    "twitter": "soysaucedoodles",
+    "socials": {
+      "twitter": "https://twitter.com/soysaucedoodles",
+      "instagram": "https://www.instagram.com/soysaucedoodles/"
+    }
+  },
+  {
+    "user_id": "52092103",
+    "channel": "benosphere",
+    "twitter": "BenosphereVT",
+    "socials": {
+      "twitter": "https://twitter.com/BenosphereVT",
+      "youtube": "https://www.youtube.com/user/bendarkling2"
+    }
+  },
+  {
+    "user_id": "271681189",
+    "channel": "bubblybunbun",
+    "twitter": "bubblybunVTUBER",
+    "socials": {
+      "twitter": "https://twitter.com/bubblybunVTUBER",
+      "youtube": "https://www.youtube.com/channel/UCbxQCSMGGjbCoDESrf-7okQ",
+      "instagram": "https://www.instagram.com/bubblybun.bun/",
+      "discord": "https://discord.gg/9jrgaRq"
+    }
+  },
+  {
+    "user_id": "44805258",
+    "channel": "lunpai",
+    "twitter": "_lunasenpai_",
+    "socials": {
+      "twitter": "https://twitter.com/_LunaSenpai_",
+      "discord": "https://discord.gg/TPjjcEk"
+    }
+  },
+  {
+    "user_id": "114960432",
+    "channel": "yokurin",
+    "twitter": "yoku_rin",
+    "socials": {
+      "twitter": "https://twitter.com/yoku_rin",
+      "youtube": "https://www.youtube.com/channel/UCPJeEtdLJ2c2oPqV-zDecXA"
+    }
+  },
+  {
+    "user_id": "49134881",
+    "channel": "angelicwaffles_",
+    "twitter": "angelicwaffles",
+    "socials": {
+      "twitter": "https://twitter.com/AngelicWaffles",
+      "discord": "https://discord.gg/Qy7ysam"
+    }
+  },
+  {
+    "user_id": "45403579",
+    "channel": "seafoampresent",
+    "twitter": "seafoampresent",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "433544500",
+    "channel": "shiba_linu",
+    "twitter": "shiba_linu",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "47877639",
+    "channel": "tanukitosuto",
+    "twitter": "tanukitosuto",
+    "socials": {
+      "twitter": "https://twitter.com/TanukiTosuto",
+      "discord": "https://discord.com/invite/Safn8Cs"
+    }
+  },
+  {
+    "user_id": "569076977",
+    "channel": "pepement",
+    "twitter": "pepement_vt",
+    "socials": {
+      "twitter": "https://twitter.com/pepement_vt",
+      "youtube": "https://www.youtube.com/channel/UCVIOD7XAlW5Bk6jnkZeOVEg",
+      "discord": "https://discord.gg/5NKR9SJ"
+    }
+  },
+  {
+    "user_id": "166271771",
+    "channel": "jiinh",
+    "twitter": null,
+    "socials": {
+      "youtube": "https://www.youtube.com/channel/UC1TO7rdREKhCCfZFVHwvYQw",
+      "discord": "https://discord.gg/ypyBtcy"
+    }
+  },
+  {
+    "user_id": "55654475",
+    "channel": "hazelry",
+    "twitter": "hazelryttv",
+    "socials": {
+      "twitter": "https://twitter.com/hazelryttv",
+      "youtube": "https://www.youtube.com/channel/UCoQAN8Ht-um-j743jw2ESOQ/"
+    }
+  },
+  {
+    "user_id": "491794401",
+    "channel": "seiryu_ch",
+    "twitter": "seiryu_ch",
+    "socials": {
+      "twitter": "https://twitter.com/Seiryu_ch"
+    }
+  },
+  {
+    "user_id": "139482554",
+    "channel": "valryia",
+    "twitter": "valstarfyre",
+    "socials": {
+      "twitter": "https://twitter.com/valstarfyre",
+      "discord": "https://discord.gg/AzFYcUB"
+    }
+  },
+  {
+    "user_id": "523531891",
+    "channel": "keaomokupuni",
+    "twitter": "keaomokupuni",
+    "socials": {
+      "twitter": "https://twitter.com/keaomokupuni",
+      "youtube": "https://www.youtube.com/channel/UCxspE2sC5xpqPI6DOkDToqQ",
+      "discord": "http://discord.gg/bPpBeXX"
+    }
+  },
+  {
+    "user_id": "427909755",
+    "channel": "tarot_xix",
+    "twitter": "tarot_xix",
+    "socials": {
+      "twitter": "https://twitter.com/Tarot_XIX",
+      "discord": "https://discord.gg/CD99ves"
+    }
+  },
+  {
+    "user_id": "52716087",
+    "channel": "isekainonsense",
+    "twitter": "IsekaiNonsense",
+    "socials": {
+      "twitter": "https://twitter.com/IsekaiNonsense",
+      "discord": "https://discord.gg/Uedt5hv"
+    }
+  },
+  {
+    "user_id": "52716087",
+    "channel": "isekainonsense",
+    "twitter": "isekainonsense",
+    "socials": {
+      "twitter": "https://twitter.com/IsekaiNonsense",
+      "discord": "https://discord.gg/Uedt5hv"
+    }
+  },
+  {
+    "user_id": "54755785",
+    "channel": "gigasaltbreaker",
+    "twitter": "ogsaltbreaker",
+    "socials": {
+      "twitter": "https://twitter.com/OGSaltBreaker"
+    }
+  },
+  {
+    "user_id": "26996667",
+    "channel": "thekally",
+    "twitter": "thekallyvr",
+    "socials": {
+      "twitter": "https://twitter.com/TheKallyVR",
+      "youtube": "https://www.youtube.com/channel/UCSeW8RGSH-TcNSUpWQtLNiA?disable_polymer=true"
+    }
+  },
+  {
+    "user_id": "431186105",
+    "channel": "akaharuutaite",
+    "twitter": "akaharuutaite",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "526973218",
+    "channel": "taigaokamori",
+    "twitter": "TaigaOkamori",
+    "socials": {
+      "twitter": "https://twitter.com/TaigaOkamori",
+      "youtube": "https://www.youtube.com/channel/UCNjXgE4Nj47oerOX3tuOWiA"
+    }
+  },
+  {
+    "user_id": "501764546",
+    "channel": "kumano_nee",
+    "twitter": "kumano_nee",
+    "socials": {
+      "twitter": "https://twitter.com/kumano_nee",
+      "youtube": "https://www.youtube.com/channel/UCuLc3iB5VGgOaTix2upIF5Q?view_as=subscriber"
+    }
+  },
+  {
+    "user_id": "141839964",
+    "channel": "akiyusa",
+    "twitter": "akiyusav",
+    "socials": {
+      "twitter": "https://twitter.com/AkiyusaV"
+    }
+  },
+  {
+    "user_id": "512007589",
+    "channel": "yotsubahana",
+    "twitter": "yotsuba_hana",
+    "socials": {
+      "twitter": "https://twitter.com/yotsuba_hana"
+    }
+  },
+  {
+    "user_id": "559696908",
+    "channel": "koumariya",
+    "twitter": "koumariya",
+    "socials": {
+      "twitter": "https://twitter.com/koumariya/",
+      "youtube": "https://www.youtube.com/channel/UCh7V3XAYu2IX0kevzEOu-jA",
+      "discord": "https://discord.gg/6gU8z5j"
+    }
+  },
+  {
+    "user_id": "497727912",
+    "channel": "ari_lambert",
+    "twitter": "lolaxari",
+    "socials": {
+      "twitter": "https://twitter.com/LolaxAri"
+    }
+  },
+  {
+    "user_id": "523109202",
+    "channel": "xkiichan",
+    "twitter": "xkiranyan",
+    "socials": {
+      "twitter": "https://twitter.com/xKiraNyan",
+      "youtube": "https://youtube.com/starryfrontier",
+      "instagram": "https://www.instagram.com/kiichanimate"
+    }
+  },
+  {
+    "user_id": "49683033",
+    "channel": "basedkaz",
+    "twitter": "basedkaz",
+    "socials": {
+      "twitter": "https://twitter.com/BasedKaz"
+    }
+  },
+  {
+    "user_id": "79018641",
+    "channel": "devioussprite",
+    "twitter": "devioussprite",
+    "socials": {
+      "twitter": "https://twitter.com/devioussprite",
+      "youtube": "https://www.youtube.com/channel/UCdbliXyrYyrpFgjg7vljmzg",
+      "instagram": "https://instagram.com/devious_mm",
+      "discord": "https://discord.gg/4ZuC6jH"
+    }
+  },
+  {
+    "user_id": "64976426",
+    "channel": "suvidriel",
+    "twitter": "suvidriel",
+    "socials": {
+      "twitter": "https://twitter.com/Suvidriel",
+      "youtube": "https://www.youtube.com/c/Suvidriel?sub_confirmation=1",
+      "discord": "https://discord.gg/e2PZfNn"
+    }
+  },
+  {
+    "user_id": "101477880",
+    "channel": "totofu_tofu",
+    "twitter": "totofu_tofu",
+    "socials": {
+      "twitter": "https://twitter.com/Totofu_Tofu",
+      "discord": "https://discord.gg/ncwxqax"
+    }
+  },
+  {
+    "user_id": "38185861",
+    "channel": "lupin_ch",
+    "twitter": "Lupin_ch",
+    "socials": {
+      "twitter": "https://twitter.com/Lupin_ch",
+      "youtube": "https://www.youtube.com/channel/UC1J7Qi-y66-cJzmYJHUPu4g",
+      "discord": "https://discord.gg/ZxHgP7S"
+    }
+  },
+  {
+    "user_id": "224744574",
+    "channel": "ayuuchii",
+    "twitter": "ayuu_chii",
+    "socials": {
+      "twitter": "https://twitter.com/ayuu_chii",
+      "discord": "https://discord.gg/4KrWJqN"
+    }
+  },
+  {
+    "user_id": "263194971",
+    "channel": "littlfox_",
+    "twitter": "littlfox_",
+    "socials": {
+      "discord": "https://discord.gg/nqypZtJ"
+    }
+  },
+  {
+    "user_id": "26189911",
+    "channel": "chocojax",
+    "twitter": "jaxchan_",
+    "socials": {
+      "youtube": "https://www.youtube.com/channel/UCFyXPo_ERTU-QGp6JF3jjqw",
+      "discord": "https://discord.gg/xksyRBX"
+    }
+  },
+  {
+    "user_id": "494884629",
+    "channel": "aquamista",
+    "twitter": "vtuber_aqua",
+    "socials": {
+      "twitter": "https://twitter.com/VTuber_AQUA",
+      "youtube": "https://www.youtube.com/user/aquamista"
+    }
+  },
+  {
+    "user_id": "545314585",
+    "channel": "seigi_ch",
+    "twitter": "arakitaseigi",
+    "socials": {
+      "twitter": "https://twitter.com/arakitaseigi",
+      "youtube": "https://www.youtube.com/channel/UC7BO4FfXbaFRzoit9EQ-1WA"
+    }
+  },
+  {
+    "user_id": "112227157",
+    "channel": "angelicruby",
+    "twitter": "xangelicruby",
+    "socials": {
+      "twitter": "https://www.twitter.com/xAngelicRuby"
+    }
+  },
+  {
+    "user_id": "209608266",
+    "channel": "pexcellchannel",
+    "twitter": "pextechart",
+    "socials": {
+      "twitter": "https://twitter.com/PexTechArt"
+    }
+  },
+  {
+    "user_id": "92335891",
+    "channel": "vtpending",
+    "twitter": "pendingv",
+    "socials": {
+      "twitter": "https://twitter.com/pendingV/",
+      "youtube": "https://www.youtube.com/VTuberPending",
+      "discord": "https://discord.gg/PsnuZH"
+    }
+  },
+  {
+    "user_id": "189357608",
+    "channel": "sekaidayon",
+    "twitter": "KisaragiSekai",
+    "socials": {
+      "twitter": "https://twitter.com/pandemo_sekai",
+      "youtube": "https://www.youtube.com/channel/UCWy9sDxQN9Qa_u0SvnHObnA",
+      "discord": "https://discord.gg/xHFWdR5"
+    }
+  },
+  {
+    "user_id": "15458952",
+    "channel": "hanavchan",
+    "twitter": "hanavchan",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "487936385",
+    "channel": "eirlysee",
+    "twitter": "eirlysee",
+    "socials": {
+      "twitter": "https://twitter.com/Eirlysee",
+      "discord": "https://discord.gg/kZKEcHB"
+    }
+  },
+  {
+    "user_id": "503940450",
+    "channel": "mooketv",
+    "twitter": "dotunderdash",
+    "socials": {
+      "twitter": "https://twitter.com/dotunderdash",
+      "youtube": "https://www.youtube.com/channel/UC6qbCWOTV4-d-KjCcjOW5Bw"
+    }
+  },
+  {
+    "user_id": "28614117",
+    "channel": "chickzama",
+    "twitter": "chickzamavs",
+    "socials": {
+      "twitter": "https://twitter.com/ChickzamaVS",
+      "youtube": "https://www.youtube.com/user/AngeliqueXInfinity",
+      "discord": "https://discord.gg/meMw4Cb"
+    }
+  },
+  {
+    "user_id": "135666016",
+    "channel": "jaykingplays",
+    "twitter": "jaykingwrites",
+    "socials": {
+      "twitter": "https://twitter.com/jaykingwrites",
+      "youtube": "https://www.youtube.com/channel/UC9v7rIorVvgVjj-5hhBQt-g?view_as=subscriber",
+      "instagram": "https://www.instagram.com/jaykingwrites/",
+      "discord": "https://discord.gg/3PdNDnU"
+    }
+  },
+  {
+    "user_id": "101254496",
+    "channel": "kamizhou",
+    "twitter": "kamizhou_uk",
+    "socials": {
+      "twitter": "https://twitter.com/Kamizhou_UK",
+      "youtube": "http://youtube.com/c/Kamizhou_UK",
+      "instagram": "https://www.instagram.com/kamizhou_uk/",
+      "discord": "https://discord.gg/BEKFmuD"
+    }
+  },
+  {
+    "user_id": "578204646",
+    "channel": "sinnamonsuccubus",
+    "twitter": "sinnamonsucc",
+    "socials": {
+      "twitter": "https://twitter.com/SinnamonSucc",
+      "discord": "https://discord.com/invite/4qeF55Y"
+    }
+  },
+  {
+    "user_id": "456979696",
+    "channel": "puchikunya",
+    "twitter": "puchikunya",
+    "socials": {
+      "twitter": "https://twitter.com/puchikunya"
+    }
+  },
+  {
+    "user_id": "487963827",
+    "channel": "yasaiyuki",
+    "twitter": "yasai_yuki",
+    "socials": {
+      "twitter": "https://twitter.com/yasai_yuki"
+    }
+  },
+  {
+    "user_id": "119295956",
+    "channel": "pacemasku",
+    "twitter": "pacemask",
+    "socials": {
+      "twitter": "https://twitter.com/pacemask",
+      "youtube": "https://www.youtube.com/channel/UCJ6wQ6ekqoXTdxGWxfJhG8A/featured"
+    }
+  },
+  {
+    "user_id": "549093557",
+    "channel": "usami_vt",
+    "twitter": "usami_vt",
+    "socials": {
+      "twitter": "https://twitter.com/usami_VT",
+      "youtube": "https://www.youtube.com/channel/UC835Gt23Gc-1uosxkXyx1Ug"
+    }
+  },
+  {
+    "user_id": "26379133",
+    "channel": "maple_sprite",
+    "twitter": "maple_sprite",
+    "socials": {
+      "twitter": "https://twitter.com/Maple_Sprite",
+      "youtube": "https://www.youtube.com/channel/UCHJD2Lc-ESfHIrP_xFEdGXQ?view_as=subscriber",
+      "discord": "https://discord.gg/5rGZMad"
+    }
+  },
+  {
+    "user_id": "427662947",
+    "channel": "vote4waifus",
+    "twitter": "vote4waifu",
+    "socials": {
+      "twitter": "https://twitter.com/vote4waifu",
+      "youtube": "https://www.youtube.com/channel/UCVuGevgAcm6gUtq0Pckr4pw"
+    }
+  },
+  {
+    "user_id": "45590895",
+    "channel": "ryuhkin",
+    "twitter": "ryuhkin",
+    "socials": {
+      "twitter": "https://twitter.com/Ryuhkin",
+      "discord": "https://discord.gg/Hn9ekE6"
+    }
+  },
+  {
+    "user_id": "60510772",
+    "channel": "onirin",
+    "twitter": "onizuurin",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "443683310",
+    "channel": "itz_leah_",
+    "twitter": "oheyitzleah",
+    "socials": {
+      "twitter": "https://twitter.com/ItzLeah1337",
+      "discord": "https://discord.gg/HAeaqxj"
+    }
+  },
+  {
+    "user_id": "7618703",
+    "channel": "princessqb",
+    "twitter": "koportable",
+    "socials": {
+      "twitter": "https://twitter.com/Koportable"
+    }
+  },
+  {
+    "user_id": "54155443",
+    "channel": "acepoi",
+    "twitter": "acepoi_",
+    "socials": {
+      "twitter": "https://twitter.com/AcePoi_",
+      "youtube": "https://www.youtube.com/channel/UCqJ0-5bHUwzS1dW0keCMryw?view_as=subscriber",
+      "discord": "https://discord.gg/eAnQWPS"
+    }
+  },
+  {
+    "user_id": "146967302",
+    "channel": "naome_e",
+    "twitter": "uwu_naome",
+    "socials": {
+      "twitter": "https://twitter.com/UwU_Naome"
+    }
+  },
+  {
+    "user_id": "72368259",
+    "channel": "fafrotskyvt",
+    "twitter": "Fafrotsky",
+    "socials": {
+      "twitter": "https://twitter.com/Fafrotsky",
+      "youtube": "https://www.youtube.com/channel/UCgD5z_AipNV8xrFk_KcUTtw",
+      "discord": "https://discord.gg/xpx748z"
+    }
+  },
+  {
+    "user_id": "72368259",
+    "channel": "fafrotskyvt",
+    "twitter": "fafrotsky",
+    "socials": {
+      "twitter": "https://twitter.com/Fafrotsky",
+      "youtube": "https://www.youtube.com/channel/UCgD5z_AipNV8xrFk_KcUTtw",
+      "discord": "https://discord.gg/xpx748z"
+    }
+  },
+  {
+    "user_id": "182661341",
+    "channel": "caimanpool",
+    "twitter": "caiman_pool",
+    "socials": {
+      "twitter": "https://twitter.com/Caiman_Pool",
+      "discord": "https://discord.gg/6g7WMz8"
+    }
+  },
+  {
+    "user_id": "153876545",
+    "channel": "silvionimbus",
+    "twitter": "SilvioNimbus",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "153876545",
+    "channel": "silvionimbus",
+    "twitter": "silvionimbus",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "189420618",
+    "channel": "akarennn",
+    "twitter": "akaren_chan",
+    "socials": {
+      "youtube": "https://www.youtube.com/channel/UCeir9LkAdvZk1Q9qcRT4W_w"
+    }
+  },
+  {
+    "user_id": "544566170",
+    "channel": "solveig_wolf",
+    "twitter": "solveig_wolf",
+    "socials": {
+      "twitter": "https://twitter.com/solveig_wolf"
+    }
+  },
+  {
+    "user_id": "59302476",
+    "channel": "einarlyall",
+    "twitter": "einarlyall",
+    "socials": {
+      "twitter": "https://twitter.com/EinarLyall",
+      "discord": "https://discord.gg/C334xzd"
+    }
+  },
+  {
+    "user_id": "122835266",
+    "channel": "kuwurousagi",
+    "twitter": "kuwurousagi",
+    "socials": {
+      "twitter": "https://twitter.com/KuwuroUsagi",
+      "discord": "https://discord.gg/YB4wVzJ"
+    }
+  },
+  {
+    "user_id": "151270035",
+    "channel": "nikila",
+    "twitter": "nikilaowo",
+    "socials": {
+      "twitter": "https://twitter.com/Nikilaowo",
+      "youtube": "https://www.youtube.com/channel/UC_E8AvXjVb-KDQ-imYcTDjQ"
+    }
+  },
+  {
+    "user_id": "41961517",
+    "channel": "milterria",
+    "twitter": "Milterria",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "477074026",
+    "channel": "katsuki_d",
+    "twitter": "katsuki_d_tube",
+    "socials": {
+      "twitter": "https://twitter.com/KATSUKi_D_TUBE",
+      "youtube": "https://www.youtube.com/channel/UCNSvYM9I5_8FzKYCQUChIKA",
+      "instagram": "https://www.instagram.com/katsuki_d/",
+      "discord": "https://discord.gg/Wq7xtXz"
+    }
+  },
+  {
+    "user_id": "54037580",
+    "channel": "donkoalachannel",
+    "twitter": "donkoala4",
+    "socials": {
+      "twitter": "https://twitter.com/DonKoala4",
+      "youtube": "https://www.youtube.com/channel/UCZSuokH5V4JSvF1i7ZHAvTQ?view_as=subscriber"
+    }
+  },
+  {
+    "user_id": "466547549",
+    "channel": "rururumoa",
+    "twitter": "moarururu",
+    "socials": {
+      "twitter": "https://twitter.com/MoaRururu"
+    }
+  },
+  {
+    "user_id": "75847493",
+    "channel": "celliron",
+    "twitter": "Celliron",
+    "socials": {
+      "instagram": "https://www.instagram.com/celliron/"
+    }
+  },
+  {
+    "user_id": "11995177",
+    "channel": "mic_sounders",
+    "twitter": "micsounders13",
+    "socials": {
+      "twitter": "https://twitter.com/micsounders13"
+    }
+  },
+  {
+    "user_id": "492562765",
+    "channel": "cybrienova",
+    "twitter": "cybrienova",
+    "socials": {
+      "youtube": "https://www.youtube.com/c/CybrieNova"
+    }
+  },
+  {
+    "user_id": "519168257",
+    "channel": "sleepingyuyui",
+    "twitter": "sleepingyuyui",
+    "socials": {
+      "twitter": "https://twitter.com/sleepingyuyui",
+      "youtube": "https://www.youtube.com/channel/UC8sks3az0ZYzWwW_isU0sgQ?sub_confirmation=1",
+      "discord": "https://discord.com/invite/vG8M4SR"
+    }
+  },
+  {
+    "user_id": "429379250",
+    "channel": "hanami_arisa",
+    "twitter": "hanami_arisa",
+    "socials": {
+      "youtube": "http://youtube.com/hanami_arisa"
+    }
+  },
+  {
+    "user_id": "548268043",
+    "channel": "succububbles",
+    "twitter": "succububbles",
+    "socials": {
+      "twitter": "https://twitter.com/succububbles",
+      "discord": "https://discord.com/invite/7vhAvqE"
+    }
+  },
+  {
+    "user_id": "177885113",
+    "channel": "yoo_genes",
+    "twitter": "yoo_genes",
+    "socials": {
+      "twitter": "https://twitter.com/yoo_genes",
+      "youtube": "https://www.youtube.com/channel/UCXZ7ft1aCWHegbgXjmFC_lA?view_as=subscriber",
+      "discord": "https://discord.gg/875TGyJ "
+    }
+  },
+  {
+    "user_id": "552243825",
+    "channel": "napolichan",
+    "twitter": "napolichan_",
+    "socials": {
+      "twitter": "https://twitter.com/napolichan_",
+      "instagram": "https://www.instagram.com/napolichan_/?hl=pt-br",
+      "discord": "https://discord.club/i/SorveteriaDaNapoli"
+    }
+  },
+  {
+    "user_id": "77389747",
+    "channel": "rinrikatsu",
+    "twitter": "rinrikatsu",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "116015054",
+    "channel": "ayyykun",
+    "twitter": "ayyykunyt",
+    "socials": {
+      "twitter": "https://twitter.com/AyyyKunYT",
+      "youtube": "https://www.youtube.com/c/ItsAKun?sub_confirmation=1"
+    }
+  },
+  {
+    "user_id": "433861785",
+    "channel": "kiyyst",
+    "twitter": "kiyyst",
+    "socials": {
+      "discord": "https://discord.gg/4cUagXP"
+    }
+  },
+  {
+    "user_id": "527484338",
+    "channel": "pascel_",
+    "twitter": "pascel_",
+    "socials": {
+      "twitter": "https://twitter.com/pascel_",
+      "youtube": "https://www.youtube.com/channel/UCGZp6D6btvbt6W3ngtrpPRA/",
+      "discord": "https://discord.gg/zVASEWs"
+    }
+  },
+  {
+    "user_id": "547050189",
+    "channel": "euphie_vt",
+    "twitter": "euphie_vt",
+    "socials": {
+      "twitter": "https://twitter.com/euphie_vt",
+      "youtube": "https://www.youtube.com/channel/UCWET33aQOKpf3_-kL_3H2yw"
+    }
+  },
+  {
+    "user_id": "32817516",
+    "channel": "evereth",
+    "twitter": "evereth_vtuber",
+    "socials": {
+      "twitter": "https://twitter.com/evereth_vtuber",
+      "youtube": "https://www.youtube.com/channel/UC8szy1_NcP9f6o3ruxw-48Q",
+      "discord": "https://discord.gg/AwbqfVb"
+    }
+  },
+  {
+    "user_id": "434019230",
+    "channel": "kuronai",
+    "twitter": "kuronai_",
+    "socials": {
+      "twitter": "https://twitter.com/kuronai_",
+      "youtube": "https://www.youtube.com/channel/UCUYKvor22evTmkfwp_GCqfg?view_as=subscriber",
+      "discord": "https://discord.gg/D7cWS63"
+    }
+  },
+  {
+    "user_id": "190276688",
+    "channel": "mittythebatata",
+    "twitter": "mittythepotato",
+    "socials": {
+      "twitter": "https://twitter.com/MittyThePotato",
+      "youtube": "https://www.youtube.com/channel/UCfjJBQs0T-pn8rRnoHudcTA",
+      "discord": "https://discord.gg/rtQgh3h"
+    }
+  },
+  {
+    "user_id": "517360108",
+    "channel": "angelnebula",
+    "twitter": "angelicnebula",
+    "socials": {
+      "twitter": "https://twitter.com/AngelicNebula"
+    }
+  },
+  {
+    "user_id": "232181425",
+    "channel": "mylachann",
+    "twitter": "mylachann",
+    "socials": {
+      "twitter": "https://twitter.com/MylaChann",
+      "instagram": "https://www.instagram.com/mylachann/",
+      "discord": "https://discord.gg/dN2gfvA"
+    }
+  },
+  {
+    "user_id": "429675379",
+    "channel": "alessiaara",
+    "twitter": "AraAlessia",
+    "socials": {
+      "twitter": "https://twitter.com/AraAlessia",
+      "discord": "https://discord.gg/YXUq9un"
+    }
+  },
+  {
+    "user_id": "168534633",
+    "channel": "kishinshinobi",
+    "twitter": "kishinshinobi",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "535690780",
+    "channel": "cherubicly",
+    "twitter": "cherubicly",
+    "socials": {
+      "twitter": "https://twitter.com/cherubicly",
+      "discord": "https://discord.gg/Jf3nK53"
+    }
+  },
+  {
+    "user_id": "95030609",
+    "channel": "frankpro53",
+    "twitter": "frankpro53",
+    "socials": {
+      "twitter": "https://twitter.com/frankpro53",
+      "discord": "https://discord.gg/MnuFMY2"
+    }
+  },
+  {
+    "user_id": "545285290",
+    "channel": "yamivt",
+    "twitter": "sensei_yami",
+    "socials": {
+      "twitter": "https://twitter.com/sensei_yami",
+      "youtube": "https://www.youtube.com/channel/UC6VwOL-DlM8Bg_rGz1gThnA?view_as=subscriber",
+      "discord": "https://discord.gg/HTVR6fp"
+    }
+  },
+  {
+    "user_id": "102039928",
+    "channel": "austinyeeeed",
+    "twitter": "AustinYeeeed",
+    "socials": {
+      "twitter": "https://twitter.com/AustinYeeeed",
+      "youtube": "https://www.youtube.com/user/TheAustin3333",
+      "instagram": "https://www.instagram.com/austinyeeeed39/",
+      "discord": "https://discord.gg/5Fv2fDf"
+    }
+  },
+  {
+    "user_id": "537663036",
+    "channel": "meltymoon_",
+    "twitter": "meltymoon__",
+    "socials": {
+      "twitter": "https://twitter.com/Meltymoon__",
+      "discord": "https://discord.gg/P6aXzS2"
+    }
+  },
+  {
+    "user_id": "27712579",
+    "channel": "virtual_deat",
+    "twitter": "virtual_deat",
+    "socials": {
+      "youtube": "https://www.youtube.com/channel/UCjWNJAgl0ctB5qfjsh2q05w",
+      "discord": "https://discord.gg/BjBgk7k"
+    }
+  },
+  {
+    "user_id": "145374134",
+    "channel": "miilkdrops",
+    "twitter": "miilkdrops",
+    "socials": {
+      "twitter": "https://twitter.com/Miilkdrops",
+      "youtube": "https://www.youtube.com/watch?v=H6QvUn-VMMg"
+    }
+  },
+  {
+    "user_id": "54991000",
+    "channel": "renee_thebae",
+    "twitter": "renee_thebae",
+    "socials": {
+      "twitter": "https://twitter.com/Renee_TheBae",
+      "instagram": "https://www.instagram.com/renee_thebae/",
+      "discord": "https://discord.gg/X4aMAuG"
+    }
+  },
+  {
+    "user_id": "203380663",
+    "channel": "nostromo_zero",
+    "twitter": "nostromo_zero",
+    "socials": {
+      "twitter": "https://twitter.com/Nostromo_Zero",
+      "discord": "https://discord.gg/Z4583sH"
+    }
+  },
+  {
+    "user_id": "558816941",
+    "channel": "alicesawyer",
+    "twitter": "chainsaw_alice",
+    "socials": {
+      "twitter": "https://twitter.com/chainsaw_alice",
+      "discord": "https://discord.gg/rgNvEdJ"
+    }
+  },
+  {
+    "user_id": "43627795",
+    "channel": "mikeynyaa",
+    "twitter": "mikeynyaa",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "544403749",
+    "channel": "vr2pichu",
+    "twitter": "r2pichu",
+    "socials": {
+      "twitter": "https://twitter.com/R2Pichu"
+    }
+  },
+  {
+    "user_id": "89435200",
+    "channel": "obakenekoworks",
+    "twitter": "obakenekoworks",
+    "socials": {
+      "twitter": "https://twitter.com/HungryYuyu"
+    }
+  },
+  {
+    "user_id": "89600533",
+    "channel": "ratanak45",
+    "twitter": "ratanak_45",
+    "socials": {
+      "twitter": "https://twitter.com/ratanak_45",
+      "youtube": "https://www.youtube.com/channel/UCUsmi9e9jr4ISpC9JftdtAA"
+    }
+  },
+  {
+    "user_id": "213445756",
+    "channel": "kaiipuppy",
+    "twitter": "kaiipuppy",
+    "socials": {
+      "twitter": "https://twitter.com/kaiipuppy"
+    }
+  },
+  {
+    "user_id": "14636461",
+    "channel": "celadonch",
+    "twitter": "celadonch",
+    "socials": {
+      "twitter": "https://twitter.com/CeladonCh",
+      "youtube": "https://youtube.com/user/XcaliburMyght"
+    }
+  },
+  {
+    "user_id": "536948524",
+    "channel": "leodvtube",
+    "twitter": "leod_vtuber",
+    "socials": {
+      "twitter": "https://twitter.com/LeoD_VTuber",
+      "youtube": "https://www.youtube.com/channel/UCzL-FjJrqBiqehOk-7iPbXw?view_as=subscriber",
+      "discord": "https://www.discord.gg/YZykrqV"
+    }
+  },
+  {
+    "user_id": "40326696",
+    "channel": "swooncraft",
+    "twitter": "swooncraft",
+    "socials": {
+      "twitter": "https://twitter.com/Swooncraft",
+      "youtube": "https://www.youtube.com/channel/UCVVzWfhy9Rewg9oq0CAwBow"
+    }
+  },
+  {
+    "user_id": "27707813",
+    "channel": "kathielvrc",
+    "twitter": "kathielvrc",
+    "socials": {
+      "twitter": "https://twitter.com/KathielVRC",
+      "youtube": "https://www.youtube.com/channel/UCw9YbQE0cgr16g4re29vW-w/",
+      "discord": "https://discord.gg/kQdHBBa"
+    }
+  },
+  {
+    "user_id": "90990495",
+    "channel": "beedrops",
+    "twitter": "beedropsart",
+    "socials": {
+      "twitter": "https://twitter.com/BeedropsArt",
+      "discord": "https://discord.gg/VhrSAYC "
+    }
+  },
+  {
+    "user_id": "44038173",
+    "channel": "notreallevi",
+    "twitter": "notreallevi_ttv",
+    "socials": {
+      "twitter": "https://twitter.com/NotRealLevi_TTV",
+      "discord": "https://discord.gg/eFCKHmT"
+    }
+  },
+  {
+    "user_id": "35892478",
+    "channel": "professorbic",
+    "twitter": "professorbic",
+    "socials": {
+      "twitter": "https://twitter.com/ProfessorBic"
+    }
+  },
+  {
+    "user_id": "102055221",
+    "channel": "chibicait",
+    "twitter": "chibicait_",
+    "socials": {
+      "youtube": "https://www.youtube.com/channel/UCyg8hQ1PZ2G2r03vlmjoPsQ",
+      "instagram": "https://www.instagram.com/chibicait/",
+      "discord": "https://discord.gg/RcFce5d"
+    }
+  },
+  {
+    "user_id": "434048756",
+    "channel": "meloniisuika",
+    "twitter": "meloniisuika",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "107787393",
+    "channel": "somashiokaze",
+    "twitter": "somashiokaze",
+    "socials": {
+      "twitter": "https://twitter.com/somashiokaze",
+      "youtube": "https://www.youtube.com/darkelfstudios18 ",
+      "instagram": "https://instagram.com/somashiokaze",
+      "discord": "https://discord.com/invite/KXShNAs"
+    }
+  },
+  {
+    "user_id": "150389764",
+    "channel": "suzumecreates",
+    "twitter": "suzumecreates",
+    "socials": {
+      "twitter": "https://twitter.com/suzumecreates",
+      "instagram": "https://www.instagram.com/suzumecreates/?hl=en"
+    }
+  },
+  {
+    "user_id": "50694160",
+    "channel": "watching_lizard",
+    "twitter": "lizardwatching",
+    "socials": {
+      "twitter": "https://twitter.com/LizardWatching",
+      "discord": "https://discord.gg/6Njaf8a"
+    }
+  },
+  {
+    "user_id": "468612239",
+    "channel": "fantakyu",
+    "twitter": "fantakyu",
+    "socials": {
+      "twitter": "https://twitter.com/fantakyu",
+      "discord": "https://discord.gg/kQNcFg2"
+    }
+  },
+  {
+    "user_id": "49973941",
+    "channel": "pandybunny",
+    "twitter": "pandybunny",
+    "socials": {
+      "twitter": "https://twitter.com/PandyBunny",
+      "youtube": "https://www.youtube.com/channel/UCLAIJxTWvBZbAvW9KMLR9aQ/"
+    }
+  },
+  {
+    "user_id": "238674030",
+    "channel": "candyvee",
+    "twitter": "candvee",
+    "socials": {
+      "twitter": "https://twitter.com/CanDVEE",
+      "youtube": "https://www.youtube.com/channel/UCBqxjCyxz7PZMMA38FSO2Jg?view_as=subscriber",
+      "instagram": "https://www.instagram.com/candvee/",
+      "discord": "http://discord.gg/U3jVrK7"
+    }
+  },
+  {
+    "user_id": "80219157",
+    "channel": "mamura_senpai",
+    "twitter": "mamura_senpai_",
+    "socials": {
+      "twitter": "https://twitter.com/MamuraVt",
+      "instagram": "https://www.instagram.com/mamura_senpai/"
+    }
+  },
+  {
+    "user_id": "169653987",
+    "channel": "pazusendpie",
+    "twitter": "pazusendpie",
+    "socials": {
+      "twitter": "https://twitter.com/PazuSendpie",
+      "discord": "https://discord.gg/fKERzA4"
+    }
+  },
+  {
+    "user_id": "42415439",
+    "channel": "minizhirra",
+    "twitter": "minizhirra",
+    "socials": {
+      "twitter": "https://www.twitter.com/minizhirra",
+      "instagram": "https://www.instagram.com/minizhirra_art/"
+    }
+  },
+  {
+    "user_id": "548149756",
+    "channel": "itsmecatzii",
+    "twitter": "itsmecatzii",
+    "socials": {
+      "twitter": "https://twitter.com/itsmecatzii",
+      "discord": "https://discord.gg/BjbYGqs"
+    }
+  },
+  {
+    "user_id": "75071946",
+    "channel": "fyrebeam",
+    "twitter": "fyrebeam",
+    "socials": {
+      "twitter": "https://twitter.com/fyrebeam",
+      "discord": "https://discord.gg/yBDZTbE"
+    }
+  },
+  {
+    "user_id": "246765892",
+    "channel": "violet_evernyan",
+    "twitter": "violet_uwu23",
+    "socials": {
+      "twitter": "https://twitter.com/Violet_uwu23",
+      "youtube": "https://www.youtube.com/channel/UCH3Dk8FmjQpVq-m1m3d8q7g?view_as=subscriber",
+      "instagram": "http://instagram.com/violet_evernyan",
+      "discord": "http://discord.gg/rM4cpg3"
+    }
+  },
+  {
+    "user_id": "527953582",
+    "channel": "kagamifuri",
+    "twitter": "kagamifuri",
+    "socials": {
+      "twitter": "https://twitter.com/KagamiFuri",
+      "youtube": "https://www.youtube.com/channel/UCEA7BfC_dvdFDLJq_gnlR7w",
+      "instagram": "https://www.instagram.com/kagamifuri/"
+    }
+  },
+  {
+    "user_id": "487750387",
+    "channel": "vjaga",
+    "twitter": "mvjagaimo",
+    "socials": {
+      "twitter": "https://twitter.com/uki_ukiha",
+      "youtube": "https://www.youtube.com/channel/UChIxr1ccrhbqHJGjgmbovjQ"
+    }
+  },
+  {
+    "user_id": "463855862",
+    "channel": "jybby_ch",
+    "twitter": "jybby_ch",
+    "socials": {
+      "twitter": "https://twitter.com/Jybby_ch"
+    }
+  },
+  {
+    "user_id": "65216532",
+    "channel": "ultra_artu",
+    "twitter": "ultra_artu",
+    "socials": {
+      "discord": "https://discord.gg/9shXgW2"
+    }
+  },
+  {
+    "user_id": "534136189",
+    "channel": "rumskii_ch",
+    "twitter": "rumskiich",
+    "socials": {
+      "twitter": "https://twitter.com/Rumskiich",
+      "youtube": "https://www.youtube.com/channel/UChIsLLz4UvdJVT0yBku1qOw"
+    }
+  },
+  {
+    "user_id": "548198967",
+    "channel": "waterlilea",
+    "twitter": "waterlilea",
+    "socials": {
+      "twitter": "https://twitter.com/waterlilea",
+      "youtube": "https://www.youtube.com/channel/UCf0x6jHVcZV5HXoGA0aVmvQ?sub_confirmation=1"
+    }
+  },
+  {
+    "user_id": "161479398",
+    "channel": "dkalastor",
+    "twitter": "dkalastor",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "517813234",
+    "channel": "morrigan_black_",
+    "twitter": "morriganblack6",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "31020703",
+    "channel": "xjes_ch",
+    "twitter": "xjes_ch",
+    "socials": {
+      "twitter": "https://twitter.com/xjes_ch",
+      "youtube": "https://www.youtube.com/channel/UCzJ-tqPi-GKx95HwECsYmvQ"
+    }
+  },
+  {
+    "user_id": "220510366",
+    "channel": "allietheanimegirl",
+    "twitter": "animegirlallie",
+    "socials": {
+      "twitter": "https://twitter.com/AnimeGirlAllie"
+    }
+  },
+  {
+    "user_id": "8162123",
+    "channel": "mallow_ch",
+    "twitter": "phlim2",
+    "socials": {
+      "twitter": "https://twitter.com/phlim2",
+      "youtube": "https://www.youtube.com/channel/UCchTI_1sqQI19uZnqrOzjeg",
+      "instagram": "https://instagram.com/phlim2"
+    }
+  },
+  {
+    "user_id": "485495462",
+    "channel": "virtualneetch",
+    "twitter": "virtual_neets",
+    "socials": {
+      "youtube": "https://www.youtube.com/channel/UCxm306Dp0xrk6TrQNXaYKIA/featured"
+    }
+  },
+  {
+    "user_id": "28877511",
+    "channel": "isanwald",
+    "twitter": "isanwald",
+    "socials": {
+      "twitter": "https://twitter.com/Isanwald",
+      "youtube": "https://www.youtube.com/user/MSScoreKeep"
+    }
+  },
+  {
+    "user_id": "498199196",
+    "channel": "falc0n_ki",
+    "twitter": "vtfalc",
+    "socials": {
+      "twitter": "https://twitter.com/VtFalc",
+      "youtube": "https://www.youtube.com/channel/UC3MAms51GkibGsGqOb5sgxg?view_as=subscriber",
+      "discord": "https://discord.gg/kJg2qR9"
+    }
+  },
+  {
+    "user_id": "40187704",
+    "channel": "redfiore",
+    "twitter": "redfiorettv",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "88078063",
+    "channel": "hunterspcgaming",
+    "twitter": "hunterspcgaming",
+    "socials": {
+      "twitter": "http://twitter.com/hunterspcgaming",
+      "discord": "https://discord.gg/upPwFyq"
+    }
+  },
+  {
+    "user_id": "153032068",
+    "channel": "smoothiesmoo",
+    "twitter": "smoothie_smoo",
+    "socials": {
+      "twitter": "https://www.twitter.com/smoothiesmoo"
+    }
+  },
+  {
+    "user_id": "556423170",
+    "channel": "evielabelle",
+    "twitter": "evie_labelle",
+    "socials": {
+      "twitter": "https://twitter.com/evie_labelle",
+      "discord": "https://discord.com/invite/msUbJMP"
+    }
+  },
+  {
+    "user_id": "527429472",
+    "channel": "magicalprincessva",
+    "twitter": "magicalmysticva",
+    "socials": {
+      "twitter": "https://twitter.com/DarkPrincessVA",
+      "youtube": "https://www.youtube.com/channel/UCrhMT6yVIgibhkigTAlckug",
+      "discord": "https://discord.gg/pJcw7kF"
+    }
+  },
+  {
+    "user_id": "100906397",
+    "channel": "nightcat777",
+    "twitter": "yagamitanen",
+    "socials": {
+      "twitter": "https://twitter.com/YagamiTanEn",
+      "discord": "https://discord.gg/sMuU5pS"
+    }
+  },
+  {
+    "user_id": "128452625",
+    "channel": "aindriasgames",
+    "twitter": "aindriasgames",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "407967246",
+    "channel": "pearlish_",
+    "twitter": "_pearlish",
+    "socials": {
+      "twitter": "https://twitter.com/_pearlish",
+      "youtube": "https://youtube.com/c/pearlish",
+      "instagram": "https://instagram.com/_pearlish"
+    }
+  },
+  {
+    "user_id": "546447110",
+    "channel": "raddlei",
+    "twitter": "raddpupper",
+    "socials": {
+      "youtube": "https://www.youtube.com/channel/UCklRBN-9AGDuT__2_GwtSew?view_as=subscriber"
+    }
+  },
+  {
+    "user_id": "400564623",
+    "channel": "dapperlyyours",
+    "twitter": "dapperlyyours",
+    "socials": {
+      "twitter": "https://twitter.com/DapperlyYours",
+      "youtube": "https://www.youtube.com/c/DapperlyYours"
+    }
+  },
+  {
+    "user_id": "522997322",
+    "channel": "honeydoo4",
+    "twitter": "honeydoo44",
+    "socials": {
+      "twitter": "https://twitter.com/honeydoo44"
+    }
+  },
+  {
+    "user_id": "546708933",
+    "channel": "cloudypistachio",
+    "twitter": "cloudypistachio",
+    "socials": {
+      "twitter": "https://twitter.com/CloudyPistachio",
+      "discord": "https://discord.gg/r2SSs5n"
+    }
+  },
+  {
+    "user_id": "98632848",
+    "channel": "kexoms",
+    "twitter": "e_kexom",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "271935472",
+    "channel": "yawayuki_ch",
+    "twitter": "sakura_yawayuki",
+    "socials": {
+      "twitter": "https://www.twitter.com/sakura_yawayuki",
+      "youtube": "https://www.youtube.com/channel/UCylYpgYP3dcisQ9Vr-WRUeQ",
+      "discord": "https://discord.gg/QU49kJw"
+    }
+  },
+  {
+    "user_id": "67387534",
+    "channel": "roku750",
+    "twitter": "roku_avata",
+    "socials": {
+      "twitter": "https://twitter.com/Roku_Avata"
+    }
+  },
+  {
+    "user_id": "464463568",
+    "channel": "bkbk_tomoko",
+    "twitter": "bkbk_tomoko",
+    "socials": {
+      "twitter": "https://twitter.com/bkbk_tomoko",
+      "youtube": "https://www.youtube.com/channel/UCrxknf58bx8V2WR_BJbXFaw?view_as=subscriber"
+    }
+  },
+  {
+    "user_id": "260426449",
+    "channel": "chuuwuu",
+    "twitter": "ttvchuuwuu",
+    "socials": {
+      "twitter": "https://twitter.com/ttvchuuwuu",
+      "instagram": "https://instagram.com/peachuu.art?igshid=1o93p52iilek2",
+      "discord": "https://discord.gg/22qxde4"
+    }
+  },
+  {
+    "user_id": "161552355",
+    "channel": "stuffings",
+    "twitter": "softstuffings",
+    "socials": {
+      "twitter": "https://twitter.com/SoftStuffings",
+      "discord": "https://discord.gg/rENjWcM"
+    }
+  },
+  {
+    "user_id": "566850090",
+    "channel": "ariarinchan",
+    "twitter": "ariarinchan",
+    "socials": {
+      "twitter": "https://twitter.com/ariarinchan",
+      "youtube": "https://www.youtube.com/channel/UC3AKoNV_otFjp6QggJVbhXQ"
+    }
+  },
+  {
+    "user_id": "479557793",
+    "channel": "general_hugs",
+    "twitter": "generalhugsuwu",
+    "socials": {
+      "twitter": "https://twitter.com/GeneralHugsUwu"
+    }
+  },
+  {
+    "user_id": "73342196",
+    "channel": "speedwagz",
+    "twitter": "briktheslabking",
+    "socials": {
+      "twitter": "https://twitter.com/BrikTheSlabKing",
+      "youtube": "https://www.youtube.com/channel/UCLOtwpvCcgyRBBTcHtJBR-Q",
+      "discord": "https://discord.gg/YJfxyE9"
+    }
+  },
+  {
+    "user_id": "453637592",
+    "channel": "leekan08",
+    "twitter": "ryomen_hyori",
+    "socials": {
+      "twitter": "https://twitter.com/Ryomen_Hyori",
+      "youtube": "https://www.youtube.com/channel/UCmG4wOZ-UhJITzaJpcPxObw?view_as=subscriber",
+      "discord": "https://discord.gg/6qDG8yJ"
+    }
+  },
+  {
+    "user_id": "118287973",
+    "channel": "sakinyan__ch",
+    "twitter": "sakinyan_ch",
+    "socials": {
+      "twitter": "https://twitter.com/sakinyan_ch",
+      "youtube": "https://www.youtube.com/channel/UCOWEdy6YH7UKYG8nS_vB6tg"
+    }
+  },
+  {
+    "user_id": "476498593",
+    "channel": "autumnspice",
+    "twitter": "autumnspice69",
+    "socials": {
+      "twitter": "https://twitter.com/autumnspice"
+    }
+  },
+  {
+    "user_id": "478330210",
+    "channel": "naru_kami",
+    "twitter": "naru_kamiii",
+    "socials": {
+      "twitter": "https://twitter.com/naru_kamiii"
+    }
+  },
+  {
+    "user_id": "118368502",
+    "channel": "sanimananahoshi",
+    "twitter": "SanimaNanahoshi",
+    "socials": {
+      "twitter": "https://twitter.com/SanimaNanahoshi"
+    }
+  },
+  {
+    "user_id": "228253314",
+    "channel": "kyuppin",
+    "twitter": "kyuppin",
+    "socials": {
+      "twitter": "https://twitter.com/kyuppin",
+      "youtube": "https://www.youtube.com/c/Kyuppin"
+    }
+  },
+  {
+    "user_id": "49368148",
+    "channel": "tora_virtualen",
+    "twitter": "tora_virtual",
+    "socials": {
+      "twitter": "https://twitter.com/Tora_Virtual",
+      "youtube": "https://www.youtube.com/channel/UCeiiyUjOm_MhNz8YGeyd5Iw"
+    }
+  },
+  {
+    "user_id": "538150427",
+    "channel": "meiraonline",
+    "twitter": "_meiraonline",
+    "socials": {
+      "twitter": "https://twitter.com/_meiraonline",
+      "discord": "https://discord.gg/PcNpwzV"
+    }
+  },
+  {
+    "user_id": "141627586",
+    "channel": "miitangwu",
+    "twitter": "miitangwu",
+    "socials": {
+      "twitter": "http://twitter.com/miitangwu",
+      "youtube": "http://youtube.com/c/miitangwu"
+    }
+  },
+  {
+    "user_id": "123393473",
+    "channel": "isrevervt",
+    "twitter": "mflvs",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "133490835",
+    "channel": "devithedeveloper",
+    "twitter": "developerdevi",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "517765352",
+    "channel": "akatorachimon",
+    "twitter": "akatorachimon",
+    "socials": {
+      "twitter": "https://twitter.com/akatorachimon",
+      "youtube": "https://www.youtube.com/channel/UCtdhrZNSGyHPavg_7Bv7zXg?view_as=subscriber"
+    }
+  },
+  {
+    "user_id": "484764338",
+    "channel": "pazzledeggs",
+    "twitter": "pazzled_eggs",
+    "socials": {
+      "twitter": "https://twitter.com/Pazzled_Eggs"
+    }
+  },
+  {
+    "user_id": "35547439",
+    "channel": "mythikmark",
+    "twitter": "mythicmark",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "475467289",
+    "channel": "amaerini",
+    "twitter": "amaerini",
+    "socials": {
+      "twitter": "https://twitter.com/AmaeRini",
+      "youtube": "https://www.youtube.com/channel/UCBD3tBumtE-4qa68rww0rkw",
+      "instagram": "https://www.instagram.com/amae_rini",
+      "discord": "https://discord.com/invite/qUNwg3v"
+    }
+  },
+  {
+    "user_id": "91252256",
+    "channel": "okamiyojimbo89",
+    "twitter": "yojimbo777",
+    "socials": {
+      "twitter": "https://twitter.com/Yojimbo777"
+    }
+  },
+  {
+    "user_id": "537544422",
+    "channel": "naruaayama",
+    "twitter": "naruaayama",
+    "socials": {
+      "twitter": "https://twitter.com/NaruaAyama",
+      "youtube": "https://www.youtube.com/channel/UC7veoEvabwCj6abAx1YnOog"
+    }
+  },
+  {
+    "user_id": "513240191",
+    "channel": "yunochill",
+    "twitter": "chill_yuno",
+    "socials": {
+      "twitter": "https://twitter.com/chill_yuno"
+    }
+  },
+  {
+    "user_id": "62072622",
+    "channel": "lapuci",
+    "twitter": "lapuci96",
+    "socials": {
+    }
+  },
+  {
+    "user_id": "65278277",
+    "channel": "hunnycatt",
+    "twitter": "hunnycatt",
+    "socials": {
+      "discord": "https://discord.gg/gE6murU"
+    }
+  },
+  {
+    "user_id": "557032637",
+    "channel": "nana_hanamori",
+    "twitter": "nanahanamori",
+    "socials": {
+      "twitter": "https://twitter.com/nanahanamori",
+      "youtube": "https://www.youtube.com/channel/UC8KW_Y3icr9--lVGq2KJYUA",
+      "discord": "https://discord.gg/VyD783j"
+    }
   }
 ]

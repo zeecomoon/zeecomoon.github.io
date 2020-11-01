@@ -4,10 +4,6 @@ object-assign
 @license MIT
 */
 
-/*! lozad.js - v1.16.0 - 2020-09-06
-* https://github.com/ApoorvSaxena/lozad.js
-* Copyright (c) 2020 Apoorv Saxena; Licensed MIT */
-
 /** @license React v0.19.1
  * scheduler.production.min.js
  *
