@@ -1286,16 +1286,6 @@
   {
     "user_id": "40103145",
     "channel": "drewskievr",
-    "twitter": "DrewskieVR",
-    "socials": {
-      "twitter": "https://twitter.com/DrewskieVR",
-      "youtube": "https://www.youtube.com/user/DrDrewskie0",
-      "discord": "https://discord.gg/EgQd2st"
-    }
-  },
-  {
-    "user_id": "40103145",
-    "channel": "drewskievr",
     "twitter": "drewskievr",
     "socials": {
       "twitter": "https://twitter.com/DrewskieVR",
@@ -2874,13 +2864,6 @@
     "user_id": "153876545",
     "channel": "silvionimbus",
     "twitter": "SilvioNimbus",
-    "socials": {
-    }
-  },
-  {
-    "user_id": "153876545",
-    "channel": "silvionimbus",
-    "twitter": "silvionimbus",
     "socials": {
     }
   },
