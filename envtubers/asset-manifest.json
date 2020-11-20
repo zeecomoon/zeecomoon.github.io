@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/envtubers/static/css/main.f20eeb6a.chunk.css",
-    "main.js": "/envtubers/static/js/main.5535749c.chunk.js",
-    "main.js.map": "/envtubers/static/js/main.5535749c.chunk.js.map",
+    "main.js": "/envtubers/static/js/main.7ac39bfc.chunk.js",
+    "main.js.map": "/envtubers/static/js/main.7ac39bfc.chunk.js.map",
     "runtime-main.js": "/envtubers/static/js/runtime-main.c6f4f696.js",
     "runtime-main.js.map": "/envtubers/static/js/runtime-main.c6f4f696.js.map",
     "static/js/2.8a88e818.chunk.js": "/envtubers/static/js/2.8a88e818.chunk.js",
     "static/js/2.8a88e818.chunk.js.map": "/envtubers/static/js/2.8a88e818.chunk.js.map",
     "index.html": "/envtubers/index.html",
-    "precache-manifest.6f13344320c481e6a4532d9747dc6c14.js": "/envtubers/precache-manifest.6f13344320c481e6a4532d9747dc6c14.js",
+    "precache-manifest.b42b32ae3e33fe24df2c3fce8a909cac.js": "/envtubers/precache-manifest.b42b32ae3e33fe24df2c3fce8a909cac.js",
     "service-worker.js": "/envtubers/service-worker.js",
     "static/css/main.f20eeb6a.chunk.css.map": "/envtubers/static/css/main.f20eeb6a.chunk.css.map",
     "static/js/2.8a88e818.chunk.js.LICENSE.txt": "/envtubers/static/js/2.8a88e818.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c6f4f696.js",
     "static/js/2.8a88e818.chunk.js",
     "static/css/main.f20eeb6a.chunk.css",
-    "static/js/main.5535749c.chunk.js"
+    "static/js/main.7ac39bfc.chunk.js"
   ]
 }
